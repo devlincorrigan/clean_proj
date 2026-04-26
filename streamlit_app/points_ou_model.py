@@ -28,8 +28,14 @@ GAME_EVENT_BIJECTION_CSV = DATA_DIR / "game_event_bijection.csv"
 ARTIFACT_PATH = (
     PROJECT_ROOT / "quantile_model" / "artifacts" / "points_ou_quantile_artifact_split.pt"
 )
+CURRENT_SCORED_ROWS_CSV = (
+    PROJECT_ROOT / "quantile_model" / "points_ou_current_scored_rows.csv"
+)
 HISTORICAL_SELECTED_BETS_CSV = (
     PROJECT_ROOT / "quantile_model" / "points_ou_historical_selected_bets.csv"
+)
+HISTORICAL_BUCKET_SUMMARY_CSV = (
+    PROJECT_ROOT / "quantile_model" / "points_ou_historical_bucket_summary.csv"
 )
 MIN_ABS_Q50_LINE_DISTANCE = 7.0
 
@@ -365,6 +371,8 @@ def score_historical_points_ou() -> pd.DataFrame:
 
 __all__ = [
     "ARTIFACT_PATH",
+    "CURRENT_SCORED_ROWS_CSV",
+    "HISTORICAL_BUCKET_SUMMARY_CSV",
     "HISTORICAL_SELECTED_BETS_CSV",
     "score_current_points_ou",
     "score_historical_points_ou",

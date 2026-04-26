@@ -10,11 +10,6 @@ from pathlib import Path
 import streamlit as st
 
 st.set_page_config(page_title="Player Context", page_icon="🏀")
-startup_message = st.empty()
-startup_message.info(
-    "Loading charts and model artifacts. If Matplotlib needs to build its font cache, "
-    "the first startup can take a moment."
-)
 
 APP_DIR = Path(__file__).resolve().parent
 MPL_DIR = APP_DIR / ".matplotlib"
@@ -33,10 +28,15 @@ from multi_output_threshold_mlp.odds_processing import (
     normalize_player_name,
 )
 from streamlit_app.points_ou_model import (
+    CURRENT_SCORED_ROWS_CSV as POINTS_OU_CURRENT_SCORED_ROWS_CSV,
+    HISTORICAL_BUCKET_SUMMARY_CSV,
     HISTORICAL_SELECTED_BETS_CSV,
     score_current_points_ou,
 )
-from streamlit_app.score_live_odds import score_current_points_ladders
+from streamlit_app.score_live_odds import (
+    CURRENT_SCORED_ROWS_CSV as POINTS_ALTERNATE_CURRENT_SCORED_ROWS_CSV,
+    score_current_points_ladders,
+)
 
 PLAYERS_CSV = APP_DIR / "data" / "box_scores" / "players.csv"
 NBA_ROSTERS_CSV = APP_DIR / "data" / "rosters.csv"
@@ -89,7 +89,6 @@ ROLLING_SUMMARY_STATS = (
     ("3PM", "threePointersMade"),
 )
 plt.style.use("ggplot")
-startup_message.empty()
 
 
 def clean_text(value):
@@ -210,11 +209,15 @@ def load_matchup_rows(events_json_path):
 
 @st.cache_data(show_spinner=False)
 def load_live_points_ladder_scores():
+    if POINTS_ALTERNATE_CURRENT_SCORED_ROWS_CSV.exists():
+        return pd.read_csv(POINTS_ALTERNATE_CURRENT_SCORED_ROWS_CSV)
     return score_current_points_ladders()
 
 
 @st.cache_data(show_spinner=False)
 def load_live_points_ou_scores():
+    if POINTS_OU_CURRENT_SCORED_ROWS_CSV.exists():
+        return pd.read_csv(POINTS_OU_CURRENT_SCORED_ROWS_CSV)
     return score_current_points_ou()
 
 
@@ -232,6 +235,13 @@ def load_historical_points_ou_scores():
             rows["bookmaker_last_update"], utc=True, errors="coerce"
         )
     return rows
+
+
+@st.cache_data(show_spinner=False)
+def load_historical_points_ou_bucket_summary():
+    if not HISTORICAL_BUCKET_SUMMARY_CSV.exists():
+        return pd.DataFrame()
+    return pd.read_csv(HISTORICAL_BUCKET_SUMMARY_CSV)
 
 
 @st.cache_data(show_spinner=False)
@@ -551,6 +561,13 @@ def format_test_window_label(date_series) -> str:
     start = dates.min().strftime("%b %-d, %Y")
     end = dates.max().strftime("%b %-d, %Y")
     return f"{start} to {end}"
+
+
+def build_q50_distance_bucket_labels(distances) -> pd.Categorical:
+    numeric = pd.to_numeric(pd.Series(distances), errors="coerce")
+    bins = [-float("inf"), 1, 2, 3, 4, 5, 7, 10, float("inf")]
+    labels = ["<1", "1-2", "2-3", "3-4", "4-5", "5-7", "7-10", "10+"]
+    return pd.cut(numeric, bins=bins, labels=labels, right=False)
 
 
 def compact_book_name(book_name):
@@ -1434,6 +1451,7 @@ def render_points_ou_page():
     elif selected_section == "Historical Performance":
         with st.spinner("Loading historical points O/U performance..."):
             historical_rows = load_historical_points_ou_scores()
+            bucket_summary = load_historical_points_ou_bucket_summary()
         if historical_rows.empty:
             st.info("Historical performance for the Points O/U strategy is not available.")
         else:
@@ -1476,6 +1494,33 @@ def render_points_ou_page():
                         "Rec Accuracy",
                         f"{accuracy:.1%}" if pd.notna(accuracy) else "N/A",
                     )
+
+                if not bucket_summary.empty:
+                    st.subheader("ROI by |Q50 - Line| Bucket")
+                    bucket_chart = (
+                        alt.Chart(bucket_summary)
+                        .mark_bar(color="#2563eb")
+                        .encode(
+                            x=alt.X(
+                                "bucket_label:N",
+                                title="|Q50 - Line| Bucket",
+                                sort=["<1", "1-2", "2-3", "3-4", "4-5", "5-7", "7-10", "10+"],
+                            ),
+                            y=alt.Y(
+                                "roi:Q",
+                                title="ROI",
+                                axis=alt.Axis(format=".0%"),
+                            ),
+                            tooltip=[
+                                alt.Tooltip("bucket_label:N", title="Bucket"),
+                                alt.Tooltip("bets:Q", title="Bets"),
+                                alt.Tooltip("roi:Q", title="ROI", format=".1%"),
+                                alt.Tooltip("accuracy:Q", title="Accuracy", format=".1%"),
+                            ],
+                        )
+                        .properties(height=260)
+                    )
+                    st.altair_chart(bucket_chart, use_container_width=True)
 
                 accuracy_rows = recommended_hist.copy()
                 accuracy_rows = accuracy_rows.sort_values(

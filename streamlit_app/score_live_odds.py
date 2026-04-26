@@ -34,6 +34,9 @@ STAGE1_ARTIFACT = PROJECT_ROOT / "multi_output_threshold_mlp" / "artifacts" / "t
 STAGE2_ARTIFACT = (
     PROJECT_ROOT / "multi_output_threshold_mlp" / "artifacts" / "stacked_bet_quality_artifact.joblib"
 )
+CURRENT_SCORED_ROWS_CSV = (
+    PROJECT_ROOT / "multi_output_threshold_mlp" / "points_alternate_current_scored_rows.csv"
+)
 
 
 @lru_cache(maxsize=4)
