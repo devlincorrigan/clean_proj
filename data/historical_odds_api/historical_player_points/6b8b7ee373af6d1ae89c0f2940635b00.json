@@ -1,0 +1,946 @@
+{
+  "timestamp": "2024-11-06T14:05:39Z",
+  "previous_timestamp": "2024-11-06T14:00:39Z",
+  "next_timestamp": "2024-11-06T14:10:39Z",
+  "data": {
+    "id": "6b8b7ee373af6d1ae89c0f2940635b00",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-07T02:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Miami Heat",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-06T14:04:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T14:06:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-06T14:04:57Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T14:05:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.9,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.96,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-06T13:56:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T13:53:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.84,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.81,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.9,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.88,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-11-06T14:04:57Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T14:05:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.88,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-06T14:04:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T14:05:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-06T14:04:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T14:05:19Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.84,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.89,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.89,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.81,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-06T14:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-06T14:04:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

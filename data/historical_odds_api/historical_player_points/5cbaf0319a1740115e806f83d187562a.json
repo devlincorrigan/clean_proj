@@ -1,0 +1,837 @@
+{
+  "timestamp": "2025-02-26T14:05:39Z",
+  "previous_timestamp": "2025-02-26T14:00:39Z",
+  "next_timestamp": "2025-02-26T14:10:38Z",
+  "data": {
+    "id": "5cbaf0319a1740115e806f83d187562a",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-27T02:10:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Sacramento Kings",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-26T14:03:58Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T14:05:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.89,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.98,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kenyon Martin Jr.",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kenyon Martin Jr.",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.76,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.98,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.77,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-26T14:05:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T14:05:55Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kenyon Martin Jr.",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kenyon Martin Jr.",
+                "price": 1.95,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-26T14:05:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T14:06:02Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.75,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 2.03,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.86,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.07,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.72,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "K.J. Martin",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "K.J. Martin",
+                "price": 1.99,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.97,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.97,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.88,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-02-26T14:02:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T14:04:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.69,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "K.J. Martin",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "K.J. Martin",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.77,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-26T14:04:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T14:04:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.69,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.25,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.61,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 2.05,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.05,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "K.J. Martin",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "K.J. Martin",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.83,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-26T14:05:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T14:05:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.79,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.79,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kenyon Martin Jr.",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kenyon Martin Jr.",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.95,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

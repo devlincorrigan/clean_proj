@@ -1,0 +1,789 @@
+{
+  "timestamp": "2024-12-21T12:35:38Z",
+  "previous_timestamp": "2024-12-21T12:30:38Z",
+  "next_timestamp": "2024-12-21T12:40:38Z",
+  "data": {
+    "id": "6504e5952ce79a153f38459f95a047fb",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-22T00:40:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Utah Jazz",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-21T12:34:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-21T12:36:00Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.81,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.82,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.77,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 2.0,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.82,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.71,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.09,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.99,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-21T12:31:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-21T12:36:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.85,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-21T12:34:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-21T12:36:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.05,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-21T12:34:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-21T12:35:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.68,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.08,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.75,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 2.04,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.7,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-21T12:34:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-21T12:36:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.69,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.77,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-12-21T12:35:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-21T12:35:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.81,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 2.02,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.74,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 2.06,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.71,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.73,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.04,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.71,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.06,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 2.07,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.7,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "timestamp": "2024-11-17T11:05:38Z",
+  "previous_timestamp": "2024-11-17T11:00:38Z",
+  "next_timestamp": "2024-11-17T11:10:38Z",
+  "data": {
+    "id": "93653e2e21378af10008b568019af044",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-17T23:10:00Z",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-17T11:05:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-17T11:05:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Caris LeVert",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Caris LeVert",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.98,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.9,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-17T11:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-17T11:05:10Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.94,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.73,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 2.06,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.86,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.9,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.79,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-17T11:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-17T11:05:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-17T11:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-17T11:02:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.97,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.75,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.79,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.96,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.76,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.93,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.79,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-17T11:05:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-17T11:05:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-17T11:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-17T11:05:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 2.15,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.67,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

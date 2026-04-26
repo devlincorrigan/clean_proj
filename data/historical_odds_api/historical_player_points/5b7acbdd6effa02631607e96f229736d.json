@@ -1,0 +1,537 @@
+{
+  "timestamp": "2024-04-14T05:05:38Z",
+  "previous_timestamp": "2024-04-14T05:00:38Z",
+  "next_timestamp": "2024-04-14T05:10:38Z",
+  "data": {
+    "id": "5b7acbdd6effa02631607e96f229736d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-14T17:10:00Z",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Brooklyn Nets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-04-14T05:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:05:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Oubre Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Oubre Jr",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-14T05:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:05:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.93,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.85,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.98,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Oubre Jr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Oubre Jr",
+                "price": 1.9,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-14T05:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:04:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Oubre Jr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Oubre Jr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.95,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-04-14T05:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:06:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Oubre Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Oubre Jr",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-04-14T05:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:02:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Oubre Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Oubre Jr",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 2.05,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.74,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-04-14T05:05:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:04:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Oubre Jr",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Oubre Jr",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.84,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.84,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.92,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.96,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.76,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.84,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

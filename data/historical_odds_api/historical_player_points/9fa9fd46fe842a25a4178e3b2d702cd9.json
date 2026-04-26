@@ -1,0 +1,970 @@
+{
+  "timestamp": "2025-01-22T13:05:38Z",
+  "previous_timestamp": "2025-01-22T13:00:38Z",
+  "next_timestamp": "2025-01-22T13:10:38Z",
+  "data": {
+    "id": "9fa9fd46fe842a25a4178e3b2d702cd9",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-23T01:10:00Z",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Milwaukee Bucks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-22T13:02:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.94,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.96,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.77,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.02,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.98,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-22T13:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:34Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 1.87,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-22T13:02:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:03:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.97,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.75,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 1.94,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-22T13:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.85,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.86,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.76,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.02,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.94,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.82,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.81,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 1.96,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-01-22T13:04:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.77,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-22T13:04:46Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.67,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.15,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-01-22T13:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.93,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.85,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.81,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.88,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

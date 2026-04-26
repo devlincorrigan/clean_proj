@@ -1,0 +1,813 @@
+{
+  "timestamp": "2025-02-03T15:05:38Z",
+  "previous_timestamp": "2025-02-03T15:00:38Z",
+  "next_timestamp": "2025-02-03T15:10:38Z",
+  "data": {
+    "id": "c4ae24f5802ac12083a858c24cee4cdd",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-04T03:10:00Z",
+    "home_team": "Golden State Warriors",
+    "away_team": "Orlando Magic",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-03T15:04:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T15:05:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.7,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 2.1,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 2.04,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.74,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 2.1,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.7,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.97,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.77,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 2.0,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-03T15:04:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T15:06:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 2.05,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.74,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-02-03T15:04:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T15:05:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 2.05,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.71,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.71,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.95,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-03T15:00:57Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T15:05:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.98,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.96,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.82,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-03T15:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T15:04:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.69,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 2.1,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.83,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-03T15:04:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T15:05:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.81,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.81,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 2.02,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.97,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.93,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.81,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.88,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

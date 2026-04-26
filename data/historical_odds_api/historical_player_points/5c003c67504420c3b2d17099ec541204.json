@@ -1,0 +1,621 @@
+{
+  "timestamp": "2024-12-28T15:35:38Z",
+  "previous_timestamp": "2024-12-28T15:30:38Z",
+  "next_timestamp": "2024-12-28T15:40:38Z",
+  "data": {
+    "id": "5c003c67504420c3b2d17099ec541204",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-29T03:40:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Sacramento Kings",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-28T15:35:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T15:35:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.0,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.78,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.96,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.9,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-28T15:34:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T15:35:17Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.77,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-28T15:30:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T15:30:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.78,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.97,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.75,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.78,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-28T15:35:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T15:36:01Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.7,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.04,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.74,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.86,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.81,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 2.04,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.74,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-28T15:35:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T15:35:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.95,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-12-28T15:35:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T15:35:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.77,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

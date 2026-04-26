@@ -1,0 +1,1799 @@
+{
+  "timestamp": "2025-12-18T14:05:37Z",
+  "previous_timestamp": "2025-12-18T14:00:37Z",
+  "next_timestamp": "2025-12-18T14:10:37Z",
+  "data": {
+    "id": "ba3c8b74f7cc686d0346a5234bd5e11a",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-19T02:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-18T14:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:05:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.02,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.74,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.93,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.82,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.76,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.76,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-18T14:05:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:05:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-18T14:03:59Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:04:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.82,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.99,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.86,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.84,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.86,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.89,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-18T14:05:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:05:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.87,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-18T14:04:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:04:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.79,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.94,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.83,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-18T14:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:05:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.84,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.86,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.81,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.97,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 2.06,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.73,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.95,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-18T14:05:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:05:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.74,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Oso Ighodaro",
+                "price": 1.91,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Oso Ighodaro",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Anthony Melton",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Anthony Melton",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-18T14:02:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-18T14:05:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.41,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 2.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.56,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 2.35,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 2.3,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.59,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 2.65,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.45,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Gillespie",
+                "price": 3.1,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Gillespie",
+                "price": 1.34,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.38,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 2.9,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.48,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 2.55,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.61,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 2.25,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.74,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 2.05,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.1,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.69,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.35,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.56,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.6,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.47,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.9,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.38,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.41,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.54,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.4,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.69,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.1,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.69,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.35,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.56,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.7,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.43,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 3.05,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.36,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.4,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.85,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.59,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.3,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.15,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.67,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.55,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.48,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 3.05,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.41,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 2.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.56,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 2.35,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 2.05,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 2.2,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.62,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 2.55,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.48,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.36,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.36,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 3.05,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.47,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 2.6,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.61,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 2.25,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 2.2,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.62,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 2.45,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.53,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 2.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.41,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.42,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.75,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.59,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.3,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 2.35,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.56,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 2.75,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.42,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.45,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 2.65,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.62,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 2.2,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 2.15,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.67,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 2.55,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.48,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 3.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.36,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.36,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 3.05,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.54,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 2.4,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 2.45,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.53,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Quinten Post",
+                "price": 2.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Quinten Post",
+                "price": 1.38,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.42,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 2.75,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.53,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 2.45,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.62,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 2.2,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.77,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 2.0,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 2.1,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.69,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 2.3,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.59,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 2.55,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.48,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 2.85,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.4,
+                "point": 33.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

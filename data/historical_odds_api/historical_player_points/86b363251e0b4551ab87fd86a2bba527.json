@@ -1,0 +1,602 @@
+{
+  "timestamp": "2023-11-05T08:25:40Z",
+  "previous_timestamp": "2023-11-05T08:20:41Z",
+  "next_timestamp": "2023-11-05T08:30:41Z",
+  "data": {
+    "id": "86b363251e0b4551ab87fd86a2bba527",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-11-05T20:30:00Z",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Toronto Raptors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-05T08:24:25Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-05T08:21:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.91,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-05T08:24:53Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-05T08:24:26Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.86,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.95,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-05T08:23:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-05T08:22:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.83,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-05T08:24:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-05T08:21:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 2.0,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "O.G. Anunoby",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "O.G. Anunoby",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.87,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-05T08:25:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-05T08:22:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.05,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.74,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Wembanyama Victor",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Wembanyama Victor",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.91,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

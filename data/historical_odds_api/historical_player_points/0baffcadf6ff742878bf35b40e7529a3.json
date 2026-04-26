@@ -1,0 +1,680 @@
+{
+  "timestamp": "2025-01-25T12:35:38Z",
+  "previous_timestamp": "2025-01-25T12:30:38Z",
+  "next_timestamp": "2025-01-25T12:40:38Z",
+  "data": {
+    "id": "0baffcadf6ff742878bf35b40e7529a3",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-26T00:40:00Z",
+    "home_team": "New York Knicks",
+    "away_team": "Sacramento Kings",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-25T12:35:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-25T12:35:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.89,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.86,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.86,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.86,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.97,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-25T12:35:20Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-25T12:35:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.96,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.78,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.93,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-25T12:35:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-25T12:35:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-25T12:34:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-25T12:33:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.92,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.85,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-25T12:32:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-25T12:36:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "De'Aaron Fox",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Aaron Fox",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.91,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

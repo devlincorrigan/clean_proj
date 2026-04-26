@@ -1,0 +1,741 @@
+{
+  "timestamp": "2025-02-10T12:05:38Z",
+  "previous_timestamp": "2025-02-10T12:00:38Z",
+  "next_timestamp": "2025-02-10T12:10:38Z",
+  "data": {
+    "id": "3c08e999c5f8c6d6954b8f618b5df9a8",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-11T00:10:00Z",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Minnesota Timberwolves",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-10T12:04:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-10T12:05:39Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-10T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-10T12:05:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.96,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.96,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.82,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-10T12:03:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-10T12:03:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.92,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-10T12:04:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-10T12:05:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.79,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.96,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-10T12:04:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-10T12:05:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 2.15,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.67,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.77,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.0,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.62,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 2.2,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.91,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-10T12:04:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-10T12:05:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.86,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.93,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.86,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.9,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

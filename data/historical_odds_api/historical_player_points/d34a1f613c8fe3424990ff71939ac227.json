@@ -1,0 +1,777 @@
+{
+  "timestamp": "2025-01-22T13:05:38Z",
+  "previous_timestamp": "2025-01-22T13:00:38Z",
+  "next_timestamp": "2025-01-22T13:10:38Z",
+  "data": {
+    "id": "d34a1f613c8fe3424990ff71939ac227",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-23T01:10:00Z",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-22T13:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.86,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Ja Morant",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Ja Morant",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 2.03,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.75,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.89,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.88,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-22T13:02:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.94,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.9,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.82,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.96,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Ja Morant",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Ja Morant",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.88,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-22T13:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:34Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Ja Morant",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Ja Morant",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.77,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-22T13:02:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:03:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.75,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ja Morant",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Ja Morant",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.73,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.73,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-01-22T13:04:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ja Morant",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Ja Morant",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.71,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 2.05,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 2.05,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.71,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.91,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-22T13:04:46Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-22T13:05:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 2.2,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.62,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ja Morant",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Ja Morant",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.95,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

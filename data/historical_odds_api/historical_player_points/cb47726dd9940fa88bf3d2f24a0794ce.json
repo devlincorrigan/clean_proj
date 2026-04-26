@@ -1,0 +1,861 @@
+{
+  "timestamp": "2024-10-28T11:35:38Z",
+  "previous_timestamp": "2024-10-28T11:30:38Z",
+  "next_timestamp": "2024-10-28T11:40:38Z",
+  "data": {
+    "id": "cb47726dd9940fa88bf3d2f24a0794ce",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-10-28T23:40:00Z",
+    "home_team": "New York Knicks",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-10-28T11:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-10-28T11:36:02Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.87,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.87,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 2.0,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-10-28T11:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-10-28T11:35:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.84,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.92,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.84,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.84,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.08,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.71,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.86,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.9,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Caris LeVert",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Caris LeVert",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 2.01,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.91,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-10-28T11:32:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-10-28T11:30:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.81,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.9,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.84,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.72,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.02,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.97,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.75,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.9,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.81,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Caris LeVert",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Caris LeVert",
+                "price": 1.79,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-10-28T11:34:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-10-28T11:35:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.91,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Caris LeVert",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Caris LeVert",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.69,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.05,
+                "point": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-10-28T11:34:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-10-28T11:34:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.88,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.88,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.94,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.02,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-10-28T11:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-10-28T11:36:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.87,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.87,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.91,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

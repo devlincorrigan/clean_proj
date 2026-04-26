@@ -1,0 +1,608 @@
+{
+  "timestamp": "2025-03-23T07:35:38Z",
+  "previous_timestamp": "2025-03-23T07:30:38Z",
+  "next_timestamp": "2025-03-23T07:40:38Z",
+  "data": {
+    "id": "5de0ba0b83bab484811d2771e65c6b9f",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-23T19:40:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-23T07:35:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-23T07:34:31Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.91,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-23T07:35:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-23T07:35:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.77,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 2.0,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.77,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-23T07:33:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-23T07:36:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.94,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.8,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-23T07:35:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-23T07:35:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.8,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-23T07:30:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-23T07:33:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.92,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.73,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "timestamp": "2024-11-30T14:05:38Z",
+  "previous_timestamp": "2024-11-30T14:00:38Z",
+  "next_timestamp": "2024-11-30T14:10:38Z",
+  "data": {
+    "id": "24c5878202cb5d7e806d17ae27a1d17e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-01T02:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-30T14:04:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:05:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.98,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.98,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.9,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-30T14:04:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:06:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-30T14:02:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:02:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.73,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.73,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 2.0,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-30T14:04:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:06:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.94,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.77,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.0,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.94,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.82,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.02,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.76,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.77,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 2.0,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-30T14:04:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:05:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.0,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-30T14:04:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:06:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.95,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-11-30T14:04:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-30T14:05:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.97,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.77,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

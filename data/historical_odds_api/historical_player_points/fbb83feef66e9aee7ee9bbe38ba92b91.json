@@ -1,0 +1,791 @@
+{
+  "timestamp": "2025-03-07T13:05:39Z",
+  "previous_timestamp": "2025-03-07T13:00:39Z",
+  "next_timestamp": "2025-03-07T13:10:39Z",
+  "data": {
+    "id": "fbb83feef66e9aee7ee9bbe38ba92b91",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-08T01:10:00Z",
+    "home_team": "Miami Heat",
+    "away_team": "Minnesota Timberwolves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-07T13:04:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:06:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.82,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.98,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-07T13:04:38Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:06:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.8,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-07T13:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:06:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.95,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 2.05,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-07T13:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:04:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.75,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.85,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-07T13:04:40Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:05:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.89,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.03,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.85,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-03-07T13:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:06:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.71,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-07T13:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:06:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.81,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-07T13:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-07T13:06:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

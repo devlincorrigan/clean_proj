@@ -1,0 +1,550 @@
+{
+  "timestamp": "2025-02-08T14:05:38Z",
+  "previous_timestamp": "2025-02-08T14:00:40Z",
+  "next_timestamp": "2025-02-08T14:10:38Z",
+  "data": {
+    "id": "01cc26e6f8d5b2a9214a6dfe9d519e05",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-09T02:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Denver Nuggets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-08T14:04:38Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T14:04:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.82,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.96,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-08T14:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T14:06:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.83,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-08T13:58:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T13:57:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.94,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.78,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.75,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.97,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.88,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.85,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-02-08T14:04:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T14:06:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.91,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-08T14:04:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T14:05:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.94,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-08T14:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T14:05:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.02,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.76,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.93,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.97,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.88,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-08T14:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-08T14:05:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 2.15,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.67,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

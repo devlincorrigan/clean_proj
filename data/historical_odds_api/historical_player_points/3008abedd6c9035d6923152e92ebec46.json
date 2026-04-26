@@ -1,0 +1,946 @@
+{
+  "timestamp": "2025-03-13T11:25:38Z",
+  "previous_timestamp": "2025-03-13T11:20:39Z",
+  "next_timestamp": "2025-03-13T11:30:38Z",
+  "data": {
+    "id": "3008abedd6c9035d6923152e92ebec46",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-13T23:30:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Los Angeles Lakers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-13T11:24:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:25:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.78,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.96,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.94,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarred Vanderbilt",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarred Vanderbilt",
+                "price": 1.93,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.02,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Gabe Vincent",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gabe Vincent",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.78,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-13T11:24:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:25:26Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalton Knecht",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalton Knecht",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-13T11:24:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:24:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalton Knecht",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalton Knecht",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Gabe Vincent",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gabe Vincent",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarred Vanderbilt",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarred Vanderbilt",
+                "price": 1.87,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-13T11:19:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:25:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarred Vanderbilt",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarred Vanderbilt",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.94,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.78,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Gabe Vincent",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gabe Vincent",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.94,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-13T11:24:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:25:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.86,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.9,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalton Knecht",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalton Knecht",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarred Vanderbilt",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarred Vanderbilt",
+                "price": 1.89,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Gabe Vincent",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gabe Vincent",
+                "price": 1.89,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-13T11:24:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:26:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Gabe Vincent",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gabe Vincent",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.85,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarred Vanderbilt",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarred Vanderbilt",
+                "price": 1.96,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.85,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.79,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.89,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-13T11:24:20Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-13T11:25:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Gabe Vincent",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gabe Vincent",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

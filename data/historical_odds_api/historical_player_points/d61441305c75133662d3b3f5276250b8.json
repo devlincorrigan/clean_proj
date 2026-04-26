@@ -1,0 +1,789 @@
+{
+  "timestamp": "2024-02-12T13:55:39Z",
+  "previous_timestamp": "2024-02-12T13:50:41Z",
+  "next_timestamp": "2024-02-12T14:00:39Z",
+  "data": {
+    "id": "d61441305c75133662d3b3f5276250b8",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-02-13T02:10:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-02-12T13:54:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-12T13:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 2.0,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.95,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.74,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 2.05,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-02-12T13:54:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-12T13:54:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 30.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-02-12T13:53:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-12T13:54:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.88,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.88,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.96,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.96,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.82,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.88,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-02-12T13:52:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-12T13:55:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.84,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.73,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-02-12T13:54:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-12T13:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.05,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 2.05,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.74,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.95,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-02-12T13:51:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-12T13:55:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.95,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.77,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

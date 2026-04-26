@@ -1,0 +1,620 @@
+{
+  "timestamp": "2025-02-24T12:05:38Z",
+  "previous_timestamp": "2025-02-24T12:00:38Z",
+  "next_timestamp": "2025-02-24T12:10:38Z",
+  "data": {
+    "id": "79c87df42ac0149022c76558108b3f3a",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-25T00:10:00Z",
+    "home_team": "Detroit Pistons",
+    "away_team": "Los Angeles Clippers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-24T12:02:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-24T12:05:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.98,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.89,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-24T12:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-24T12:05:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.89,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.96,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.85,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-24T12:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-24T12:04:41Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-24T12:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-24T12:05:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.86,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.9,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.86,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.9,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.84,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.97,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.81,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-24T12:02:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-24T12:03:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.85,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.85,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.88,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

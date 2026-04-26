@@ -1,0 +1,946 @@
+{
+  "timestamp": "2024-03-31T10:05:39Z",
+  "previous_timestamp": "2024-03-31T10:00:38Z",
+  "next_timestamp": "2024-03-31T10:10:39Z",
+  "data": {
+    "id": "10ec472040ee7d1cf9124a6da48efec5",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-31T22:10:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Los Angeles Lakers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-31T10:02:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:05:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.95,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-31T10:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:05:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.95,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-31T10:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:05:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.82,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-31T10:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:04:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.95,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-31T10:01:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:04:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.79,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.78,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.76,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.8,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-31T10:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:04:49Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.95,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-31T10:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-31T10:04:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.77,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

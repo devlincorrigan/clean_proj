@@ -1,0 +1,475 @@
+{
+  "timestamp": "2026-01-04T08:35:37Z",
+  "previous_timestamp": "2026-01-04T08:30:37Z",
+  "next_timestamp": "2026-01-04T08:40:37Z",
+  "data": {
+    "id": "8d6b4abe3aab876f8c65565e13ba3e88",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T20:40:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Denver Nuggets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T08:35:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-04T08:35:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Day'Ron Sharpe",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Day'Ron Sharpe",
+                "price": 2.02,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "DaRon Holmes II",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "DaRon Holmes II",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Peyton Watson",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Peyton Watson",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.76,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.0,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T08:35:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-04T08:35:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.95,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T08:35:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-04T08:35:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.84,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.9,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Peyton Watson",
+                "price": 1.84,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Peyton Watson",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Day'Ron Sharpe",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Day'Ron Sharpe",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.79,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "DaRon Holmes II",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "DaRon Holmes II",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.96,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.82,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T08:33:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-04T08:35:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Day'Ron Sharpe",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Day'Ron Sharpe",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Peyton Watson",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Peyton Watson",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 1.79,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "DaRon Holmes II",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "DaRon Holmes II",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.78,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.96,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.87,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

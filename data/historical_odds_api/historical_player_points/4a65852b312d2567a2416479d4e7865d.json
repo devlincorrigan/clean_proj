@@ -1,0 +1,1054 @@
+{
+  "timestamp": "2024-11-04T12:25:38Z",
+  "previous_timestamp": "2024-11-04T12:20:39Z",
+  "next_timestamp": "2024-11-04T12:30:39Z",
+  "data": {
+    "id": "4a65852b312d2567a2416479d4e7865d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-05T00:30:00Z",
+    "home_team": "Detroit Pistons",
+    "away_team": "Los Angeles Lakers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-04T12:24:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:25:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.91,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-04T12:24:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:25:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.98,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.9,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.9,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.93,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-04T12:25:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:25:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.89,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.86,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.86,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.93,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.99,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.0,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.77,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-04T12:20:40Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:18:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.84,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.99,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Bronny James",
+                "price": 1.84,
+                "point": 1.5
+              },
+              {
+                "name": "Under",
+                "description": "Bronny James",
+                "price": 1.87,
+                "point": 1.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.84,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.79,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart II",
+                "price": 1.78,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart II",
+                "price": 1.94,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.76,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.9,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-11-04T12:25:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:25:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.96,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.91,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-04T12:25:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:26:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.74,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 2.0,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart II",
+                "price": 1.77,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart II",
+                "price": 1.95,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Bronny James",
+                "price": 1.8,
+                "point": 1.5
+              },
+              {
+                "name": "Under",
+                "description": "Bronny James",
+                "price": 1.95,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-04T12:25:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:25:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.69,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.1,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.87,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "timestamp": "2024-11-10T10:55:37Z",
+  "previous_timestamp": "2024-11-10T10:50:37Z",
+  "next_timestamp": "2024-11-10T11:00:37Z",
+  "data": {
+    "id": "2f1d263e41f6003cbc4dbfbba0adc84e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-10T23:10:00Z",
+    "home_team": "Orlando Magic",
+    "away_team": "Washington Wizards",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-10T10:54:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T10:55:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 2.1,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.95,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-10T10:54:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T10:55:02Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-10T10:52:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T10:53:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.81,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.79,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.81,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.79,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.93,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-10T10:55:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T10:55:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.74,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-10T10:54:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T10:55:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.84,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 2.03,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.81,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 2.1,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.7,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.86,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.86,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.9,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

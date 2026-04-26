@@ -1,0 +1,707 @@
+{
+  "timestamp": "2025-03-15T12:35:38Z",
+  "previous_timestamp": "2025-03-15T12:30:38Z",
+  "next_timestamp": "2025-03-15T12:40:39Z",
+  "data": {
+    "id": "16f2531aa8ae151a4b8c7c1844162160",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-16T00:40:00Z",
+    "home_team": "San Antonio Spurs",
+    "away_team": "New Orleans Pelicans",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-15T12:34:46Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:35:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.86,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.84,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.7,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephon Castle",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephon Castle",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 1.86,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.9,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.79,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-15T12:34:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:35:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephon Castle",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephon Castle",
+                "price": 1.95,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-15T12:34:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:35:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephon Castle",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephon Castle",
+                "price": 1.76,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.98,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.96,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-15T12:34:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:35:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.62,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 2.2,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-15T12:34:46Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:36:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephon Castle",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephon Castle",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.87,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-03-15T12:33:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:35:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bismack Biyombo",
+                "price": 1.83,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Bismack Biyombo",
+                "price": 1.91,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-15T12:34:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:35:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.83,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-15T12:31:45Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-15T12:36:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephon Castle",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephon Castle",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.73,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 2.0,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

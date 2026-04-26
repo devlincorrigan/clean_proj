@@ -1,0 +1,838 @@
+{
+  "timestamp": "2024-04-03T11:05:39Z",
+  "previous_timestamp": "2024-04-03T11:00:39Z",
+  "next_timestamp": "2024-04-03T11:10:39Z",
+  "data": {
+    "id": "3c16ebcbe0ac4662cf9a5541e4eb70f6",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-03T23:10:00Z",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Portland Trail Blazers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-04-03T11:04:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:04:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalano Banton",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalano Banton",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.95,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-03T11:04:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:05:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalano Banton",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalano Banton",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.87,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-03T11:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:04:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.9,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 2.02,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.96,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 2.02,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.77,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-04-03T11:05:09Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:04:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.77,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalano Banton",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalano Banton",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.74,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-04-03T11:05:09Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:04:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.98,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.79,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalano Banton",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalano Banton",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.8,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-04-03T11:01:59Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:05:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.75,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.79,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.75,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.97,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.79,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.78,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalano Banton",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalano Banton",
+                "price": 1.79,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.84,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-04-03T11:05:09Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:05:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dalano Banton",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dalano Banton",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Grant Williams",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Grant Williams",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.95,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

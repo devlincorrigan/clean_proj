@@ -29,10 +29,6 @@ multi_output_threshold_mlp/diagnostics/
 multi_output_threshold_mlp/*_predictions.csv
 multi_output_threshold_mlp/walk_forward_stacked_pair_type_summary.csv
 
-# Ignore bulky or nonessential local data, but keep the small current odds snapshots
-# that the live app tabs rely on.
-data/historical_odds_api/
-data/historical_event_odds_v4/
-data/historical_player_points_alternate/
-data/team_logos/
+# Keep `data/` in the repo by default; only exclude the local helper file below.
 data/game_event_info.csv
+data/team_logos/

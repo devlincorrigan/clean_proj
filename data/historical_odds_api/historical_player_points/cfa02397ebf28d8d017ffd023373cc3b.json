@@ -1,0 +1,706 @@
+{
+  "timestamp": "2024-01-13T14:25:39Z",
+  "previous_timestamp": "2024-01-13T14:20:40Z",
+  "next_timestamp": "2024-01-13T14:30:39Z",
+  "data": {
+    "id": "cfa02397ebf28d8d017ffd023373cc3b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-01-14T02:40:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Los Angeles Lakers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-01-13T14:25:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:23:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.74,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 2.05,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.95,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-01-13T14:25:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:13:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.88,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.88,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.9,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-01-13T14:25:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:25:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.95,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-01-13T14:21:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:23:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.75,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.81,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.75,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.97,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.84,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.88,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.81,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-01-13T14:25:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:26:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis Jr.",
+                "price": 1.84,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis Jr.",
+                "price": 1.92,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.84,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.74,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 2.04,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.85,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.0,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-01-13T14:20:08Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:24:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.0,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-01-13T14:25:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-13T14:24:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Davis Jr.",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Davis Jr.",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

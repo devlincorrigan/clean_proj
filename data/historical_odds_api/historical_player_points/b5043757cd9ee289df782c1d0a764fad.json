@@ -1,0 +1,946 @@
+{
+  "timestamp": "2024-03-27T11:05:39Z",
+  "previous_timestamp": "2024-03-27T11:00:40Z",
+  "next_timestamp": "2024-03-27T11:10:39Z",
+  "data": {
+    "id": "b5043757cd9ee289df782c1d0a764fad",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-27T23:10:00Z",
+    "home_team": "Orlando Magic",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-27T11:03:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:04:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.67,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.2,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-27T11:03:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:04:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.96,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.82,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 2.02,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.96,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.82,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.08,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.72,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.88,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-27T11:04:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:05:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.12,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.69,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.81,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.84,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.82,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-27T11:03:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:04:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.71,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-27T11:04:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:04:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.65,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.12,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.79,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.9,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.81,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.84,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.83,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-27T11:04:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:04:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-27T11:03:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-27T11:05:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.67,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 2.15,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Kuminga",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Kuminga",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

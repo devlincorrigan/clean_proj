@@ -1,0 +1,812 @@
+{
+  "timestamp": "2026-02-22T10:05:37Z",
+  "previous_timestamp": "2026-02-22T10:00:37Z",
+  "next_timestamp": "2026-02-22T10:10:37Z",
+  "data": {
+    "id": "c58609240b6495b450250cabc147e1ac",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-02-22T22:10:00Z",
+    "home_team": "Indiana Pacers",
+    "away_team": "Dallas Mavericks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-02-22T10:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-22T10:05:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.82,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.82,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-02-22T10:04:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-22T10:05:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-02-22T10:05:09Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-22T10:05:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.86,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.79,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 1.96,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-02-22T10:02:58Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-22T10:05:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.81,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 1.97,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.71,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.05,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-02-22T10:05:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-22T10:06:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 1.38,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 2.9,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 1.56,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 2.35,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 2.1,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 1.69,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 2.5,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 1.5,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Daniel Gafford",
+                "price": 3.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Daniel Gafford",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.45,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.65,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.61,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.25,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.1,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.69,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.45,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.53,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.4,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.38,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.53,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.45,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 2.25,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.61,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 2.6,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.47,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 3.05,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.36,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.38,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 2.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.5,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 2.5,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.67,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 2.15,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 2.1,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.69,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 2.4,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.54,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 2.75,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.42,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.43,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 2.7,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.56,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 2.35,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.74,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 2.05,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 2.15,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.67,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 2.4,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.54,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 2.75,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.42,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.45,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 2.65,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.61,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 2.25,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.25,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.61,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.6,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.47,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 3.0,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.36,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

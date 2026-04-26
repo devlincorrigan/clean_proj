@@ -1,0 +1,632 @@
+{
+  "timestamp": "2024-12-26T12:05:38Z",
+  "previous_timestamp": "2024-12-26T12:00:38Z",
+  "next_timestamp": "2024-12-26T12:10:38Z",
+  "data": {
+    "id": "e39267d11691e68e77ef431e52fdb11e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-27T00:00:00Z",
+    "home_team": "Orlando Magic",
+    "away_team": "Miami Heat",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-26T12:05:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-26T12:05:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Haywood Highsmith",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Haywood Highsmith",
+                "price": 1.95,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-26T12:03:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-26T12:02:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Haywood Highsmith",
+                "price": 1.97,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Haywood Highsmith",
+                "price": 1.75,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.75,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.97,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.94,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-26T12:01:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-26T12:05:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jovic",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jovic",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.82,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Haywood Highsmith",
+                "price": 2.06,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Haywood Highsmith",
+                "price": 1.74,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cole Anthony",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Cole Anthony",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.88,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-26T12:05:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-26T12:06:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.97,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.8,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-26T12:04:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-26T12:05:41Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Goga Bitadze",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Goga Bitadze",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tristan da Silva",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tristan da Silva",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.95,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "timestamp": "2024-01-08T12:35:38Z",
+  "previous_timestamp": "2024-01-08T12:30:38Z",
+  "next_timestamp": "2024-01-08T12:40:38Z",
+  "data": {
+    "id": "da8f399eb003df80b0484f8a71121b16",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-01-09T00:40:00Z",
+    "home_team": "Miami Heat",
+    "away_team": "Houston Rockets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-01-08T12:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:35:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr.",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr.",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.95,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-01-08T12:35:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:35:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr.",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr.",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-01-08T12:34:58Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:32:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr.",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr.",
+                "price": 1.84,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.81,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.93,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.79,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.8,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-01-08T12:35:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:32:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 2.15,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.67,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 2.0,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.77,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.81,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith",
+                "price": 1.86,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.83,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-01-08T12:31:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:33:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jabari Smith",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr.",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.96,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.82,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-01-08T12:34:40Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:33:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.95,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-01-08T12:34:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-08T12:33:41Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr.",
+                "price": 1.74,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr.",
+                "price": 2.05,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.74,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 2.05,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Lowry",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Lowry",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

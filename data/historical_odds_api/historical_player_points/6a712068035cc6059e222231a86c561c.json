@@ -1,0 +1,2424 @@
+{
+  "timestamp": "2024-03-03T12:05:39Z",
+  "previous_timestamp": "2024-03-03T12:00:38Z",
+  "next_timestamp": "2024-03-03T12:10:38Z",
+  "data": {
+    "id": "6a712068035cc6059e222231a86c561c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-04T00:10:00Z",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Indiana Pacers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-03T12:03:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:04:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-03T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:06:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.79,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.76,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.02,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.86,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.86,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.9,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-03T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:04:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-03T12:03:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:05:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.04,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.87,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-03T12:03:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:06:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Wembanyama Victor",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Wembanyama Victor",
+                "price": 1.87,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-03T11:58:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:05:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-03T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:06:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.76,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.96,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.88,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-03-03T12:03:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:04:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.68,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.79,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.12,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.66,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.08,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.68,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.71,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.06,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.75,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.4,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.49,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.35,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.45,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.48,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.2,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.6,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.41,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.6,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.38,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.7,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.44,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.5,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.4,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.49,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.49,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.4,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.4,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.49,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.56,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.25,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.38,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.5,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.75,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.36,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.48,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.44,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.68,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.3,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.29,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.85,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.33,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.35,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.34,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.56,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.25,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.33,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.63,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.16,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.06,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.7,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.06,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.71,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.66,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 2.12,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.9,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.32,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.38,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.7,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.36,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 2.7,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 2.7,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.67,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.1,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.28,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.55,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.43,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.47,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.32,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.3,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.68,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 2.08,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.28,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.56,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.28,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 3.1,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.5,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 2.38,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.5,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.35,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.28,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 3.1,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 2.28,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.55,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.55,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.42,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.3,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.27,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 3.1,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.28,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 3.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.5,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.38,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.45,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 2.48,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.05,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.71,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.55,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.43,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-03-03T12:03:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-03T12:04:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.68,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.79,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.12,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.66,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.08,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.68,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.71,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.06,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.75,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.4,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.49,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.35,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.45,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.48,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.2,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.6,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.41,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.6,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.38,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.7,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.44,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.5,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.4,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.49,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.49,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.4,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.4,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.49,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.56,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.25,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.38,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.5,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.75,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.36,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.48,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.44,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.68,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.3,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.29,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.85,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.33,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.35,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.34,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.56,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.25,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.33,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.63,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.16,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.06,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.7,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.06,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.71,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.66,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 2.12,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.9,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.32,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.38,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.7,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.36,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 2.7,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 2.7,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.67,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.1,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.28,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.55,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.43,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.47,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.32,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.3,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.68,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 2.08,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.28,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.56,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.28,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 3.1,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.5,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 2.38,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.5,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 2.35,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.28,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 3.1,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 2.28,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.55,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 2.55,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.42,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.3,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.27,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 3.1,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.28,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 3.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.5,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 2.38,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.45,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 2.48,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.05,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.71,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.55,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.43,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

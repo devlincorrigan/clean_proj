@@ -1,0 +1,933 @@
+{
+  "timestamp": "2024-12-22T11:05:37Z",
+  "previous_timestamp": "2024-12-22T11:00:37Z",
+  "next_timestamp": "2024-12-22T11:10:38Z",
+  "data": {
+    "id": "06bea5c751ad73d3977dc90d2b8e198b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-22T23:10:00Z",
+    "home_team": "Toronto Raptors",
+    "away_team": "Houston Rockets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-22T11:05:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-22T11:05:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.76,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.04,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Mogbo",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Mogbo",
+                "price": 1.96,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.93,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-22T11:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-22T11:05:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Mogbo",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Mogbo",
+                "price": 1.87,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-22T10:54:00Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-22T10:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Mogbo",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Mogbo",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-12-22T11:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-22T11:05:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jonathan Mogbo",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Mogbo",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.76,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.73,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.04,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 2.05,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.71,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.73,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.04,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 2.08,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.07,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.7,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-22T11:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-22T11:05:09Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.89,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 1.84,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonathan Mogbo",
+                "price": 1.84,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonathan Mogbo",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.98,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.79,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.93,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-22T11:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-22T11:05:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Gradey Dick",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gradey Dick",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 2.0,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1679 @@
+{
+  "timestamp": "2026-02-20T15:05:38Z",
+  "previous_timestamp": "2026-02-20T15:00:38Z",
+  "next_timestamp": "2026-02-20T15:10:38Z",
+  "data": {
+    "id": "f0c5e19ea41dbbe28f060e1fa9b20628",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-02-21T03:10:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Los Angeles Clippers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-02-20T15:05:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:05:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.76,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.02,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.74,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.93,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-02-20T15:04:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:06:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.93,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.85,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.89,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.97,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.81,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.01,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.9,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-02-20T15:05:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:06:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.02,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.72,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.01,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.88,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-02-20T15:05:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:05:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.8,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-02-20T15:05:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:05:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.9,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.86,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.81,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.89,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.84,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.84,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.7,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 2.1,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-02-20T15:05:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:05:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.85,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.74,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-02-20T15:05:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:05:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.79,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.79,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.75,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.97,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.94,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-02-20T15:02:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T15:06:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.38,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 2.9,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.5,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 2.5,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.62,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 2.2,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.2,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.62,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.5,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.5,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 2.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.41,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.36,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 3.05,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.54,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.4,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.45,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.53,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.38,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.41,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 2.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.59,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 2.3,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 2.4,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 2.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.41,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.41,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 2.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.59,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 2.3,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 2.4,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 2.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.41,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.41,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.56,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.35,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.05,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.2,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.62,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.55,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.48,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.36,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.36,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 3.0,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.47,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.6,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.59,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.3,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.74,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.05,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.05,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.74,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.25,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.61,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.5,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.5,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.41,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.38,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 2.9,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.59,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 2.3,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 2.15,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.67,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 2.6,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.47,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.38,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 2.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.5,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 2.5,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.62,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 2.2,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.25,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.61,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.5,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.5,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 2.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.4,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.42,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.75,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.53,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.45,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.62,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.2,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.77,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.0,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 2.1,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.69,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 2.3,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.59,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 2.55,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.48,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 2.85,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.4,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.41,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 2.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.59,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 2.3,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 2.4,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Rui Hachimura",
+                "price": 2.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rui Hachimura",
+                "price": 1.41,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

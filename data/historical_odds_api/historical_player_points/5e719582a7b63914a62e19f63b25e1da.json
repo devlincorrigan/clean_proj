@@ -1,0 +1,839 @@
+{
+  "timestamp": "2023-11-08T12:55:43Z",
+  "previous_timestamp": "2023-11-08T12:50:44Z",
+  "next_timestamp": "2023-11-08T13:00:42Z",
+  "data": {
+    "id": "5e719582a7b63914a62e19f63b25e1da",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-11-09T01:00:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Detroit Pistons",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-08T12:54:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:54:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.96,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.94,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-08T12:54:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:53:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.91,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-08T12:53:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:51:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Robert Lopez",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Robert Lopez",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-08T12:54:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:54:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.92,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.75,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.97,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.84,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.79,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.84,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.75,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-08T12:54:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:54:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-08T12:54:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:56:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.92,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.84,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.86,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.99,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.97,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.81,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-08T12:55:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:52:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-11-08T12:55:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-08T12:52:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

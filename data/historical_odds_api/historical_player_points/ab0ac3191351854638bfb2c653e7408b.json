@@ -1,0 +1,946 @@
+{
+  "timestamp": "2026-02-26T13:35:37Z",
+  "previous_timestamp": "2026-02-26T13:30:37Z",
+  "next_timestamp": "2026-02-26T13:40:37Z",
+  "data": {
+    "id": "ab0ac3191351854638bfb2c653e7408b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-02-27T01:40:00Z",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Sacramento Kings",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-02-26T13:35:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Williams",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Williams",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.89,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.85,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Precious Achiuwa",
+                "price": 1.89,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Precious Achiuwa",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nique Clifford",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nique Clifford",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Marvin Bagley III",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Marvin Bagley III",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Maxime Raynaud",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Maxime Raynaud",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.77,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-02-26T13:34:46Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Maxime Raynaud",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Maxime Raynaud",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Marvin Bagley III",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Marvin Bagley III",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.86,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Precious Achiuwa",
+                "price": 1.89,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Precious Achiuwa",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nique Clifford",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nique Clifford",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.86,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Williams",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Williams",
+                "price": 1.86,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-02-26T13:33:33Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nique Clifford",
+                "price": 1.76,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nique Clifford",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.89,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Precious Achiuwa",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Precious Achiuwa",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.76,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Williams",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Williams",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Marvin Bagley III",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Marvin Bagley III",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Maxime Raynaud",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Maxime Raynaud",
+                "price": 1.94,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-02-26T13:35:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Maxime Raynaud",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Maxime Raynaud",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Precious Achiuwa",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Precious Achiuwa",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.71,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nique Clifford",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nique Clifford",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Marvin Bagley III",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Marvin Bagley III",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 2.25,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.61,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 2.0,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-02-26T13:34:45Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.98,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Williams",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Williams",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Marvin Bagley III",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Marvin Bagley III",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.99,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nique Clifford",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nique Clifford",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Maxime Raynaud",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Maxime Raynaud",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Precious Achiuwa",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Precious Achiuwa",
+                "price": 1.94,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-02-26T13:34:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.76,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Marvin Bagley III",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Marvin Bagley III",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Christie",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Christie",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.79,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.93,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Precious Achiuwa",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Precious Achiuwa",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Monk",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Monk",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nique Clifford",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nique Clifford",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Williams",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Maxime Raynaud",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Maxime Raynaud",
+                "price": 1.88,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-02-26T13:34:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-26T13:35:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

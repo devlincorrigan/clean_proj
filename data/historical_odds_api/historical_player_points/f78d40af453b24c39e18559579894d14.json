@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-04-12T10:05:38Z",
+  "previous_timestamp": "2026-04-12T10:00:44Z",
+  "next_timestamp": "2026-04-12T10:10:38Z",
+  "data": {
+    "id": "f78d40af453b24c39e18559579894d14",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-04-12T22:10:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Orlando Magic",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-04-12T10:05:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-12T10:05:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,876 @@
+{
+  "timestamp": "2023-11-13T15:05:40Z",
+  "previous_timestamp": "2023-11-13T15:00:39Z",
+  "next_timestamp": "2023-11-13T15:10:40Z",
+  "data": {
+    "id": "9997e8dfb18fc831da551d77ce5de8ad",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-11-14T03:10:00Z",
+    "home_team": "Sacramento Kings",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-13T15:02:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:04:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Huerter",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Huerter",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-13T15:05:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:01:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Huerter",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Huerter",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-13T15:02:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:04:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Huerter",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Huerter",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.84,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.76,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.76,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.83,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-13T15:05:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:03:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 2.0,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-13T15:05:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:03:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 2.0,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-13T15:04:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:05:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.02,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.76,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.98,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Huerter",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Huerter",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.86,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.97,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.8,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-11-13T15:04:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:04:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Huerter",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Huerter",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-13T15:05:09Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:01:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Huerter Kevin",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Huerter Kevin",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-13T15:03:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-13T15:04:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Harrison Barnes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Harrison Barnes",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keegan Murray",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keegan Murray",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Huerter",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Huerter",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

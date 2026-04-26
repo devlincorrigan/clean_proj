@@ -1,0 +1,740 @@
+{
+  "timestamp": "2025-11-01T09:05:39Z",
+  "previous_timestamp": "2025-11-01T09:00:39Z",
+  "next_timestamp": "2025-11-01T09:10:39Z",
+  "data": {
+    "id": "1eb306bc928cde16b480fbf6493b53a6",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-11-01T21:10:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Sacramento Kings",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-11-01T09:04:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-01T09:06:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 2.02,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.98,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.77,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.77,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-11-01T09:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-01T09:06:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.87,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-11-01T09:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-01T09:06:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 2.01,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 2.03,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.95,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-11-01T09:04:14Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-01T09:06:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.82,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.79,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.91,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-11-01T09:05:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-01T09:06:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.98,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.79,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Domantas Sabonis",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Domantas Sabonis",
+                "price": 1.82,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.99,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.89,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 1.99,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Ellis",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Ellis",
+                "price": 1.88,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.97,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.8,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

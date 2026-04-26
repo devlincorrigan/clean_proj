@@ -1,0 +1,90 @@
+{
+  "timestamp": "2023-11-17T10:55:42Z",
+  "previous_timestamp": "2023-11-17T10:50:42Z",
+  "next_timestamp": "2023-11-17T11:00:42Z",
+  "data": {
+    "id": "7e90b3b3dfade3c239b728945b2ff6c7",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-11-18T00:10:00Z",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Milwaukee Bucks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-17T10:55:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-17T10:56:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 30.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-17T10:53:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-17T10:55:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 30.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-17T10:55:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-17T10:54:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 30.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

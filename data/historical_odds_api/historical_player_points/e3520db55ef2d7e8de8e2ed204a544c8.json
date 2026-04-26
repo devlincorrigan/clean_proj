@@ -1,0 +1,718 @@
+{
+  "timestamp": "2024-11-01T10:55:39Z",
+  "previous_timestamp": "2024-11-01T10:50:39Z",
+  "next_timestamp": "2024-11-01T11:00:39Z",
+  "data": {
+    "id": "e3520db55ef2d7e8de8e2ed204a544c8",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-01T23:10:00Z",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Boston Celtics",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-01T10:54:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.87,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-01T10:53:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:55:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.98,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-01T10:55:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:55:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.84,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.81,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.95,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.81,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.87,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-01T10:53:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:54:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.81,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.84,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.84,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.85,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-01T10:54:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:55:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.77,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 2.0,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.83,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-01T10:55:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:55:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.83,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-11-01T10:54:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-01T10:56:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.94,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.88,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

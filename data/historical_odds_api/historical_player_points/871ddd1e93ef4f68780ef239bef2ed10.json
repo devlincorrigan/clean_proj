@@ -1,0 +1,644 @@
+{
+  "timestamp": "2023-12-17T08:25:38Z",
+  "previous_timestamp": "2023-12-17T08:20:38Z",
+  "next_timestamp": "2023-12-17T08:30:38Z",
+  "data": {
+    "id": "871ddd1e93ef4f68780ef239bef2ed10",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-12-17T20:30:00Z",
+    "home_team": "San Antonio Spurs",
+    "away_team": "New Orleans Pelicans",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-12-17T08:25:14Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-17T08:25:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.62,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 2.24,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "CJ McCollum",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "CJ McCollum",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Herbert Jones",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Herbert Jones",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Malaki Branham",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malaki Branham",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.71,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 2.1,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-12-17T08:23:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-17T08:21:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "CJ McCollum",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "CJ McCollum",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Herbert Jones",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Herbert Jones",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Malaki Branham",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malaki Branham",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.83,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-12-17T08:24:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-17T08:23:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Malaki Branham",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malaki Branham",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "CJ McCollum",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "CJ McCollum",
+                "price": 1.84,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Herbert Jones",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Herbert Jones",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.9,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.84,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-12-17T08:25:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-17T08:22:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "CJ McCollum",
+                "price": 1.93,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "CJ McCollum",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keldon Johnson",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keldon Johnson",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Herbert Jones",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Herbert Jones",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Malaki Branham",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malaki Branham",
+                "price": 1.96,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 1.96,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.9,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-12-17T08:24:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-17T08:23:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian James McCollum",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian James McCollum",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Vassell",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jeremy Sochan",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremy Sochan",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Malaki Branham",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malaki Branham",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

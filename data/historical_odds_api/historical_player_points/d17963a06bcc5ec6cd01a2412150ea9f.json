@@ -1,0 +1,2688 @@
+{
+  "timestamp": "2024-01-24T13:05:38Z",
+  "previous_timestamp": "2024-01-24T13:00:38Z",
+  "next_timestamp": "2024-01-24T13:10:38Z",
+  "data": {
+    "id": "d17963a06bcc5ec6cd01a2412150ea9f",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-01-25T01:10:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-01-24T13:04:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:05:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.95,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-01-24T13:04:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:03:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.99,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.86,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.75,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.03,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.84,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.89,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.84,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.94,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.96,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.81,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-01-24T13:03:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:04:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.67,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.15,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.95,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-01-24T13:02:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:05:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.75,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.66,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.1,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.76,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.79,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.84,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.84,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-01-24T13:03:59Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:03:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.98,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.85,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.02,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-01-24T13:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:04:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.35,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.51,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.07,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.7,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 2.4,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.49,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.32,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.9,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.6,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.42,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 2.08,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.7,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.97,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.85,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.81,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.16,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.63,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.66,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.12,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.25,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.56,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.44,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.48,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.85,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.0,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.75,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.2,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.6,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.6,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.57,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.23,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.64,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.14,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.7,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.07,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.67,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.1,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.68,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.08,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.14,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.65,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.57,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.23,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.75,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.36,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.6,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.41,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.5,
+                "point": 36.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.43,
+                "point": 36.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.5,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.44,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 3.15,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.27,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.42,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.6,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.43,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 2.5,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.73,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.02,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 3.15,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.27,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.27,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.15,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.73,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.04,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.28,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 3.1,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.47,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.45,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.27,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 3.15,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.23,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.57,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.38,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 2.7,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.32,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.3,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.63,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.4,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.8,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.35,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.8,
+                "point": 37.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.34,
+                "point": 37.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 3.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.3,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.3,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 2.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.34,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.57,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 2.23,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.35,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.36,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.7,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.36,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.75,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.07,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.7,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.56,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 2.25,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.35,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.48,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.44,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.28,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 3.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.45,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.45,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.5,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.38,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.34,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.47,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.43,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.25,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.56,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.45,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.45,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.28,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.55,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.56,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.28,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.45,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.48,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-01-24T13:05:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:04:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.35,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.51,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.07,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.7,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 2.4,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.49,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.32,
+                "point": 4.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.9,
+                "point": 4.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.6,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.42,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 2.08,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.7,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.97,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.85,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.81,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.16,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.63,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.66,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.12,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.25,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.56,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.44,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.48,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.85,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.0,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.75,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.2,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.6,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.6,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.57,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.23,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.64,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.14,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.7,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.07,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.67,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.1,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.68,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.08,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.14,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.65,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.57,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.23,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.75,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.36,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.6,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.41,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.5,
+                "point": 36.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.43,
+                "point": 36.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.5,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.44,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 3.15,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.27,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.42,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.6,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.43,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 2.5,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.73,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.02,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 3.15,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.27,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.27,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.15,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.73,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.04,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.28,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 3.1,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.47,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.45,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.27,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 3.15,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.23,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.57,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.38,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 2.7,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.32,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.3,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.63,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.4,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.8,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.35,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.8,
+                "point": 37.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.34,
+                "point": 37.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 3.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.3,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.3,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 2.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.34,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.57,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 2.23,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.35,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.36,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.7,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.36,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.75,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.07,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.7,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.56,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 2.25,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.35,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.48,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.44,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.28,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 3.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.45,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 2.45,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.5,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 2.38,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.34,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.47,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 2.43,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.25,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.56,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 2.45,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.45,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.28,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.55,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 2.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.56,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.28,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.45,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 2.48,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-01-24T13:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:05:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 1.67,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 2.1,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 32.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-01-24T13:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-24T13:05:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brook Robert Lopez",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Robert Lopez",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Dean Wade",
+                "price": 2.05,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dean Wade",
+                "price": 1.74,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaac Okoro",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaac Okoro",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.91,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

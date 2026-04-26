@@ -1,0 +1,873 @@
+{
+  "timestamp": "2024-02-27T12:35:39Z",
+  "previous_timestamp": "2024-02-27T12:30:39Z",
+  "next_timestamp": "2024-02-27T12:40:39Z",
+  "data": {
+    "id": "7de4cab428eddcfaae70a444cf5078af",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-02-28T00:40:00Z",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Utah Jazz",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-02-27T12:34:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-27T12:34:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.95,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-02-27T12:34:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-27T12:35:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.84,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.84,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.84,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-02-27T12:34:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-27T12:34:46Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.86,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.89,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.95,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-02-27T12:33:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-27T12:34:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.82,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-02-27T12:35:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-27T12:35:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.91,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-02-27T12:34:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-27T12:34:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Clarkson",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Clarkson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Lauri Markkanen",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Lauri Markkanen",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Murray Dejounte",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Murray Dejounte",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.95,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

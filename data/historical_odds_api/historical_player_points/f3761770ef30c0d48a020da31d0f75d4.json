@@ -1,0 +1,633 @@
+{
+  "timestamp": "2025-01-15T14:05:38Z",
+  "previous_timestamp": "2025-01-15T14:00:38Z",
+  "next_timestamp": "2025-01-15T14:10:38Z",
+  "data": {
+    "id": "f3761770ef30c0d48a020da31d0f75d4",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-16T02:10:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-15T14:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-15T14:05:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 2.05,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.74,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.77,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-15T14:02:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-15T14:04:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.78,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 2.04,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.7,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Martin",
+                "price": 1.94,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Martin",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.88,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.7,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.04,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.94,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.78,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-15T14:05:07Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-15T14:05:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.96,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.82,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.83,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-15T14:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-15T14:05:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.73,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.06,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.81,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.77,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-15T14:03:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-15T14:05:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 2.05,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.74,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.15,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.67,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.69,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 2.1,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.87,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-01-15T14:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-15T14:05:30Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.76,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 2.0,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.93,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.82,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 2.12,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.65,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 2.18,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.62,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.74,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 2.02,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.6,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 2.2,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

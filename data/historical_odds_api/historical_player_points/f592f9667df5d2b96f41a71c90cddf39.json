@@ -1,0 +1,608 @@
+{
+  "timestamp": "2025-02-07T12:05:38Z",
+  "previous_timestamp": "2025-02-07T12:00:38Z",
+  "next_timestamp": "2025-02-07T12:10:38Z",
+  "data": {
+    "id": "f592f9667df5d2b96f41a71c90cddf39",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-08T00:10:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-07T11:54:08Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-07T12:06:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.98,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 2.02,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 2.04,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.76,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Richaun Holmes",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Richaun Holmes",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-07T12:05:08Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-07T12:05:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.83,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-07T12:00:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-07T11:58:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Richaun Holmes",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Richaun Holmes",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-07T12:05:08Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-07T12:05:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.0,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.77,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.97,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.86,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.84,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Richaun Holmes",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Richaun Holmes",
+                "price": 1.86,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 2.02,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.76,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-07T12:03:58Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-07T12:05:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Darius Garland",
+                "price": 2.05,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Darius Garland",
+                "price": 1.74,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 2.1,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.69,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Richaun Holmes",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Richaun Holmes",
+                "price": 1.83,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

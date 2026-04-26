@@ -1,0 +1,741 @@
+{
+  "timestamp": "2025-03-24T11:35:38Z",
+  "previous_timestamp": "2025-03-24T11:30:38Z",
+  "next_timestamp": "2025-03-24T11:40:38Z",
+  "data": {
+    "id": "f5b6f06f53cc82b2f791424c459f6e64",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-24T23:40:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Dallas Mavericks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-24T11:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-24T11:35:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Spencer Dinwiddie",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Spencer Dinwiddie",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-24T11:35:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-24T11:35:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Spencer Dinwiddie",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Spencer Dinwiddie",
+                "price": 2.0,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-24T11:35:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-24T11:35:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.76,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.76,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Spencer Dinwiddie",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Spencer Dinwiddie",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.76,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.96,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.78,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.88,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-24T11:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-24T11:35:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Spencer Dinwiddie",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Spencer Dinwiddie",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.86,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.89,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.99,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.78,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.97,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.85,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-24T11:33:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-24T11:34:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 2.05,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.74,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kai Jones",
+                "price": 1.69,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kai Jones",
+                "price": 2.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.05,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.74,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-24T11:33:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-24T11:35:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Spencer Dinwiddie",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Spencer Dinwiddie",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cameron Johnson",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Cameron Johnson",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Naji Marshall",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naji Marshall",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.75,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.94,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,946 @@
+{
+  "timestamp": "2024-03-19T10:55:39Z",
+  "previous_timestamp": "2024-03-19T10:50:38Z",
+  "next_timestamp": "2024-03-19T11:00:38Z",
+  "data": {
+    "id": "902f333cd3d25777474fd0e0f8920bb0",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-19T23:10:00Z",
+    "home_team": "Orlando Magic",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-19T10:55:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:52:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.77,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-19T10:53:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 2.04,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.96,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.96,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 2.02,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.87,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-19T10:54:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:55:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-19T10:55:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:56:01Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.81,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 1.99,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.98,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.0,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-19T10:55:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:51:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.95,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-19T10:53:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:55:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.77,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-19T10:54:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-19T10:55:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.96,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Harris",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Harris",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Wendell Carter Jr",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Wendell Carter Jr",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.78,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Suggs",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Suggs",
+                "price": 1.73,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Franz Wagner",
+                "price": 1.76,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Franz Wagner",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Vasilije Micic",
+                "price": 2.02,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Vasilije Micic",
+                "price": 1.72,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

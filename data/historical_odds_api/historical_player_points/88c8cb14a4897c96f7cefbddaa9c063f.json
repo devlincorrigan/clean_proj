@@ -1,0 +1,839 @@
+{
+  "timestamp": "2025-03-16T13:05:37Z",
+  "previous_timestamp": "2025-03-16T13:00:37Z",
+  "next_timestamp": "2025-03-16T13:10:37Z",
+  "data": {
+    "id": "88c8cb14a4897c96f7cefbddaa9c063f",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-17T01:10:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Oklahoma City Thunder",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-16T13:04:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:06:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.76,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.96,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.78,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.82,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.93,
+                "point": 33.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-16T13:04:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.95,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-16T13:04:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.77,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-16T13:04:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.89,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.81,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-03-16T13:04:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 2.0,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-16T13:02:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.1,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.69,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-16T13:02:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.92,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.83,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-16T13:04:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-16T13:05:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.0,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.77,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.86,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.84,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "timestamp": "2023-11-12T12:05:39Z",
+  "previous_timestamp": "2023-11-12T12:00:40Z",
+  "next_timestamp": "2023-11-12T12:10:40Z",
+  "data": {
+    "id": "64721a4edadcb7c2579924d0c15d2ab5",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-11-13T00:10:00Z",
+    "home_team": "Chicago Bulls",
+    "away_team": "Detroit Pistons",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-12T12:04:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:02:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-12T12:05:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:03:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.9,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.82,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.96,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.8,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-12T12:04:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:02:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-12T12:05:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:05:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.83,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-11-12T12:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:03:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-12T12:03:25Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:04:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.84,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.78,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-12T12:05:14Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-12T12:05:28Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Stewart",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Stewart",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Killian Hayes",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Killian Hayes",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.84,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.86,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Ausar Thompson",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Ausar Thompson",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.97,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

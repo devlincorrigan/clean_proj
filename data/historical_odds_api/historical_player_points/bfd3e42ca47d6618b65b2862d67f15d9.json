@@ -1,0 +1,610 @@
+{
+  "timestamp": "2024-03-16T11:55:39Z",
+  "previous_timestamp": "2024-03-16T11:50:39Z",
+  "next_timestamp": "2024-03-16T12:00:39Z",
+  "data": {
+    "id": "bfd3e42ca47d6618b65b2862d67f15d9",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-17T00:00:00Z",
+    "home_team": "Chicago Bulls",
+    "away_team": "Washington Wizards",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-16T11:55:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:54:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-16T11:55:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:56:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-16T11:55:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:54:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-16T11:53:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:52:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.77,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-16T11:55:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:55:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-16T11:55:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.89,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.97,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 1.84,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-16T11:54:19Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-16T11:55:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.9,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.94,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.78,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.97,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.75,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

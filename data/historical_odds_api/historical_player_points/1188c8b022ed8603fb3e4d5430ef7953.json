@@ -1,0 +1,899 @@
+{
+  "timestamp": "2025-03-25T13:05:39Z",
+  "previous_timestamp": "2025-03-25T13:00:40Z",
+  "next_timestamp": "2025-03-25T13:10:39Z",
+  "data": {
+    "id": "1188c8b022ed8603fb3e4d5430ef7953",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-26T01:10:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Memphis Grizzlies",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-25T13:03:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:05:31Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Luke Kennard",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luke Kennard",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-25T13:03:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:05:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.95,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Luke Kennard",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luke Kennard",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.77,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-25T13:03:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:06:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luke Kennard",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luke Kennard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.98,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-25T13:03:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:05:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luke Kennard",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luke Kennard",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.79,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.8,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-03-25T13:01:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:05:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.95,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.77,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-25T13:03:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:05:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Luke Kennard",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luke Kennard",
+                "price": 1.78,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-25T13:03:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:05:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 2.05,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-25T13:03:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-25T13:06:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Desmond Bane",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Desmond Bane",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Edey",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Edey",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Santi Aldama",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Santi Aldama",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Wells",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Wells",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Walker Kessler",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Walker Kessler",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luke Kennard",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luke Kennard",
+                "price": 1.88,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

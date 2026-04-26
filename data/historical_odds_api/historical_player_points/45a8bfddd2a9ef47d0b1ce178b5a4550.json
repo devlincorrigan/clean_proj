@@ -1,0 +1,946 @@
+{
+  "timestamp": "2025-03-05T12:05:39Z",
+  "previous_timestamp": "2025-03-05T12:00:39Z",
+  "next_timestamp": "2025-03-05T12:10:39Z",
+  "data": {
+    "id": "45a8bfddd2a9ef47d0b1ce178b5a4550",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-06T00:10:00Z",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Minnesota Timberwolves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-05T12:04:53Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:05:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.96,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 2.02,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.74,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.89,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.76,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.77,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.98,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.89,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 2.02,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.74,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-05T12:04:53Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:05:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.95,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-05T12:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:05:30Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.91,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-05T12:03:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:06:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.75,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.97,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.92,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.75,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.97,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.78,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-05T12:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:05:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.81,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.72,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.81,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.88,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-05T12:04:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:04:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 2.05,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.74,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.91,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-05T12:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-05T12:05:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.81,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.84,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 2.0,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.77,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.84,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.94,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.82,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.82,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.81,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.96,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "timestamp": "2025-03-08T12:05:39Z",
+  "previous_timestamp": "2025-03-08T12:00:39Z",
+  "next_timestamp": "2025-03-08T12:10:39Z",
+  "data": {
+    "id": "7080c86d26fb2e75b344b134b4059fc2",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-09T00:10:00Z",
+    "home_team": "Houston Rockets",
+    "away_team": "New Orleans Pelicans",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-08T12:04:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-08T12:05:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.02,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.98,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.96,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.76,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 1.96,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-08T12:04:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-08T12:05:41Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.71,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.95,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-08T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-08T12:06:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 2.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.71,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-08T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-08T12:06:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.75,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.7,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 2.04,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.83,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-08T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-08T12:05:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Trey Murphy III",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Trey Murphy III",
+                "price": 1.84,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "C.J. McCollum",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "C.J. McCollum",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Yves Missi",
+                "price": 1.71,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Yves Missi",
+                "price": 2.08,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.86,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Smith Jr",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Smith Jr",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

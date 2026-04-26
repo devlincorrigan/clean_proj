@@ -1,0 +1,921 @@
+{
+  "timestamp": "2025-11-19T11:55:37Z",
+  "previous_timestamp": "2025-11-19T11:50:37Z",
+  "next_timestamp": "2025-11-19T12:00:37Z",
+  "data": {
+    "id": "bffc94ea34d3aceace2f4536d77c5925",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-11-20T00:00:00Z",
+    "home_team": "Indiana Pacers",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-11-19T11:54:40Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-19T11:55:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.84,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kon Knueppel",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kon Knueppel",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Jackson",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Jackson",
+                "price": 1.79,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Sion James",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Sion James",
+                "price": 1.89,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-11-19T11:54:38Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-19T11:55:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kon Knueppel",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kon Knueppel",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Moussa Diabate",
+                "price": 1.71,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moussa Diabate",
+                "price": 2.05,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Kalkbrenner",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Jackson",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Jackson",
+                "price": 1.71,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Sion James",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Sion James",
+                "price": 1.87,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Sheppard",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Sheppard",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Tony Bradley",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Tony Bradley",
+                "price": 1.87,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "T.J. McConnell",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "T.J. McConnell",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 2.0,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.77,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-11-19T11:54:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-19T11:55:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Sion James",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Sion James",
+                "price": 1.94,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kon Knueppel",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kon Knueppel",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.98,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.96,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Jackson",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Jackson",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.98,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-11-19T11:53:25Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-19T11:54:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Isaiah Jackson",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Jackson",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kon Knueppel",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kon Knueppel",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Sion James",
+                "price": 1.81,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Sion James",
+                "price": 1.93,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.88,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-11-19T11:55:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-19T11:55:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.82,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.85,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Jackson",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Jackson",
+                "price": 1.79,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.81,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kon Knueppel",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kon Knueppel",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.81,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Sion James",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Sion James",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.83,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-11-19T11:55:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-11-19T11:55:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.89,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Moussa Diabate",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Moussa Diabate",
+                "price": 2.05,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Sion James",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Sion James",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Kon Knueppel",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kon Knueppel",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Collin Sexton",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Collin Sexton",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Kalkbrenner",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Jackson",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Jackson",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Sheppard",
+                "price": 1.93,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Sheppard",
+                "price": 1.83,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

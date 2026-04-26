@@ -1,0 +1,957 @@
+{
+  "timestamp": "2025-12-03T13:05:38Z",
+  "previous_timestamp": "2025-12-03T13:00:38Z",
+  "next_timestamp": "2025-12-03T13:10:37Z",
+  "data": {
+    "id": "9421da303e9d1d538a8e49b3287d052c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-04T01:10:00Z",
+    "home_team": "Chicago Bulls",
+    "away_team": "Brooklyn Nets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-03T13:05:26Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-03T13:05:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Drake Powell",
+                "price": 1.98,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Drake Powell",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Martin",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Martin",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 2.02,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.74,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-03T13:05:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-03T13:05:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Martin",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Martin",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Drake Powell",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Drake Powell",
+                "price": 1.77,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-03T13:05:14Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-03T13:05:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Martin",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Martin",
+                "price": 1.84,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.79,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 2.04,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.74,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.86,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Drake Powell",
+                "price": 2.02,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Drake Powell",
+                "price": 1.76,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 2.02,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.76,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-03T13:05:25Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-03T13:05:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.86,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.96,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.84,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.99,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 2.02,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Martin",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Martin",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Drake Powell",
+                "price": 1.99,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Drake Powell",
+                "price": 1.79,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-03T13:01:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-03T13:02:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Martin",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Martin",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Drake Powell",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Drake Powell",
+                "price": 1.79,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-03T13:05:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-03T13:05:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyrese Martin",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Martin",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Drake Powell",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Drake Powell",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Egor Demin",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Egor Demin",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Ziaire Williams",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ziaire Williams",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Jones",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Jones",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.83,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

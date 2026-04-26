@@ -1,0 +1,596 @@
+{
+  "timestamp": "2026-01-19T08:05:37Z",
+  "previous_timestamp": "2026-01-19T08:00:37Z",
+  "next_timestamp": "2026-01-19T08:10:37Z",
+  "data": {
+    "id": "d83e3a6de719f872d8af6632781718c1",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-19T20:10:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Los Angeles Clippers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-19T08:04:57Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-19T08:05:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Justin Champagnie",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Justin Champagnie",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.89,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.76,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-19T08:04:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-19T08:04:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.98,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Justin Champagnie",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Justin Champagnie",
+                "price": 1.79,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.99,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.81,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.85,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.98,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.79,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-19T08:03:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-19T08:04:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Justin Champagnie",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Justin Champagnie",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.89,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.82,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.82,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-19T08:04:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-19T08:05:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.81,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.96,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.86,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.98,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.99,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.84,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Khris Middleton",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Khris Middleton",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Justin Champagnie",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Justin Champagnie",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.97,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.81,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-19T08:04:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-01-19T08:05:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.87,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

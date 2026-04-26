@@ -1,0 +1,526 @@
+{
+  "timestamp": "2024-02-25T12:05:38Z",
+  "previous_timestamp": "2024-02-25T12:00:38Z",
+  "next_timestamp": "2024-02-25T12:10:39Z",
+  "data": {
+    "id": "3b0efc0d6f87bdf4fa650d8421d54f30",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-02-26T00:10:00Z",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Chicago Bulls",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-02-25T12:03:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:03:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-02-25T12:03:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:04:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.88,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-02-25T12:04:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:04:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-02-25T12:03:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:04:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-02-25T12:04:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:04:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.78,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.88,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-02-25T12:03:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:05:41Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.84,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.79,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-02-25T12:03:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T12:04:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Caruso",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "DeMar DeRozan",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "DeMar DeRozan",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

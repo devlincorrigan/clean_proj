@@ -1,0 +1,993 @@
+{
+  "timestamp": "2025-01-07T12:05:38Z",
+  "previous_timestamp": "2025-01-07T12:00:38Z",
+  "next_timestamp": "2025-01-07T12:10:37Z",
+  "data": {
+    "id": "e0b8319e07a33042a1affc78f653b6ae",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-08T00:10:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Houston Rockets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-07T12:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-07T12:05:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 2.0,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-07T12:05:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-07T12:05:54Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Whitmore",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Whitmore",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.8,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-07T12:02:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-07T12:02:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.0,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.73,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.75,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 2.12,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.65,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Whitmore",
+                "price": 1.73,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Whitmore",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-07T12:05:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-07T12:05:46Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.03,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.75,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.97,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.81,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Whitmore",
+                "price": 1.84,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Whitmore",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 1.96,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-01-07T12:05:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-07T12:05:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.68,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 2.1,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.61,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 2.2,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.61,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 2.2,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.74,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 2.02,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 2.15,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.64,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 2.04,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.73,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.81,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.93,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 2.1,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.68,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.1,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.68,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.66,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 2.12,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.66,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 2.12,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 2.06,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.71,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 2.06,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.71,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.15,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.63,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-07T12:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-07T12:05:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alex Sarr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Alex Sarr",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.15,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.67,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 2.25,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.61,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Whitmore",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Whitmore",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Corey Kispert",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Corey Kispert",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Fred VanVleet",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Fred VanVleet",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jonas Valanciunas",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jonas Valanciunas",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jordan Poole",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jordan Poole",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 2.05,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.74,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

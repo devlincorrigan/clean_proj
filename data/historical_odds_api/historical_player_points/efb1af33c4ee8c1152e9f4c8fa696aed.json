@@ -1,0 +1,609 @@
+{
+  "timestamp": "2024-12-28T14:05:38Z",
+  "previous_timestamp": "2024-12-28T14:00:38Z",
+  "next_timestamp": "2024-12-28T14:10:38Z",
+  "data": {
+    "id": "efb1af33c4ee8c1152e9f4c8fa696aed",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-29T02:10:00Z",
+    "home_team": "Denver Nuggets",
+    "away_team": "Detroit Pistons",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-28T14:05:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T14:05:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.0,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.78,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 2.02,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.82,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Peyton Watson",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Peyton Watson",
+                "price": 1.85,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-28T14:05:00Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T14:05:31Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-28T14:02:53Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T14:05:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-12-28T14:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T14:05:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.8,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-28T14:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T14:06:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tobias Harris",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tobias Harris",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.82,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.94,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.97,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.97,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.97,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tim Hardaway Jr",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tim Hardaway Jr",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.86,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Russell Westbrook",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Russell Westbrook",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Peyton Watson",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Peyton Watson",
+                "price": 1.84,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.88,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-28T14:05:00Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-28T14:05:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden Ivey",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden Ivey",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,632 @@
+{
+  "timestamp": "2025-02-26T13:05:39Z",
+  "previous_timestamp": "2025-02-26T13:00:39Z",
+  "next_timestamp": "2025-02-26T13:10:39Z",
+  "data": {
+    "id": "22f1fdae3a801fdc9ae93ab9e210b125",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-27T01:10:00Z",
+    "home_team": "Chicago Bulls",
+    "away_team": "Los Angeles Clippers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-26T13:00:57Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T13:05:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Lonzo Ball",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Lonzo Ball",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.89,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.98,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.76,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.89,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-26T13:02:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T13:06:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Lonzo Ball",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Lonzo Ball",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.74,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-26T13:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T12:54:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.75,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.97,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.73,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.75,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.97,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Lonzo Ball",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Lonzo Ball",
+                "price": 1.85,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-26T13:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T13:05:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.7,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 2.1,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Lonzo Ball",
+                "price": 1.86,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Lonzo Ball",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bogdan Bogdanovic",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.97,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.8,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-26T13:04:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-26T13:05:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.4,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.54,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 2.05,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.74,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Lonzo Ball",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Lonzo Ball",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Matas Buzelis",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Matas Buzelis",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach Collins",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach Collins",
+                "price": 1.91,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "timestamp": "2024-04-07T10:05:38Z",
+  "previous_timestamp": "2024-04-07T10:00:38Z",
+  "next_timestamp": "2024-04-07T10:10:38Z",
+  "data": {
+    "id": "a3cf562e526613a4c0c3604b68da457c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-07T22:10:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Portland Trail Blazers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-04-07T10:04:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:05:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.91,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-07T10:04:13Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:04:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 2.02,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.98,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 2.04,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.76,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-07T10:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:06:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.71,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.91,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-04-07T10:03:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:04:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 1.99,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-04-07T10:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:05:54Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.79,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.98,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-04-07T10:04:53Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:05:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-04-07T10:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-07T10:06:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jabari Walker",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jabari Walker",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Murray",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Murray",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rayan Rupert",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Rayan Rupert",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.91,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

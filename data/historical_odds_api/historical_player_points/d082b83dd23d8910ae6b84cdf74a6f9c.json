@@ -1,0 +1,620 @@
+{
+  "timestamp": "2024-11-10T08:35:37Z",
+  "previous_timestamp": "2024-11-10T08:30:37Z",
+  "next_timestamp": "2024-11-10T08:40:37Z",
+  "data": {
+    "id": "d082b83dd23d8910ae6b84cdf74a6f9c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-10T20:40:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Boston Celtics",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-10T08:34:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T08:35:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.93,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.96,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.96,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.9,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.87,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-10T08:34:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T08:35:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-10T08:33:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T08:35:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.99,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.94,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.76,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.84,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.92,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.93,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-10T08:35:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T08:35:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.77,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-10T08:35:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-10T08:35:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylen Brown",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylen Brown",
+                "price": 1.84,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.9,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.86,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Brook Lopez",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Brook Lopez",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.86,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Damian Lillard",
+                "price": 1.9,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Damian Lillard",
+                "price": 1.86,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Taurean Prince",
+                "price": 1.92,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Taurean Prince",
+                "price": 1.84,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

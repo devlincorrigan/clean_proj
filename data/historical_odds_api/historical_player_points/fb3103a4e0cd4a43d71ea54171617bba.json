@@ -1,0 +1,934 @@
+{
+  "timestamp": "2024-02-25T10:05:38Z",
+  "previous_timestamp": "2024-02-25T10:00:39Z",
+  "next_timestamp": "2024-02-25T10:10:38Z",
+  "data": {
+    "id": "fb3103a4e0cd4a43d71ea54171617bba",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-02-25T22:10:00Z",
+    "home_team": "Indiana Pacers",
+    "away_team": "Dallas Mavericks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-02-25T10:05:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:04:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-02-25T10:04:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:04:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.87,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-02-25T10:04:08Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:05:48Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.86,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.77,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.0,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.84,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively",
+                "price": 1.81,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington Jr.",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington Jr.",
+                "price": 1.99,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.76,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.97,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-02-25T10:04:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:06:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.85,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.93,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively",
+                "price": 1.98,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.93,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.85,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-02-25T10:02:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:04:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.84,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.87,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "PJ Washington",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "PJ Washington",
+                "price": 1.75,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.78,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.79,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.93,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.79,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.99,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.74,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-02-25T10:05:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:06:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "PJ Washington",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "PJ Washington",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-02-25T10:05:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-25T10:05:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bennedict Mathurin",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bennedict Mathurin",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J Washington",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J Washington",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

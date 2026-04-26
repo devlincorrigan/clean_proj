@@ -1,0 +1,622 @@
+{
+  "timestamp": "2025-02-22T14:35:39Z",
+  "previous_timestamp": "2025-02-22T14:30:39Z",
+  "next_timestamp": "2025-02-22T14:40:39Z",
+  "data": {
+    "id": "fd3614621e63d8197e801717550a04b1",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-23T02:40:00Z",
+    "home_team": "Utah Jazz",
+    "away_team": "Houston Rockets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-22T14:35:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:35:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 2.02,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.87,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.93,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-02-22T14:35:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:35:32Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 2.0,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-22T14:28:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:29:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.83,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-02-22T14:35:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:35:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 2.05,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.71,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.77,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-02-22T14:35:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:35:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.84,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.8,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-22T14:33:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:35:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.8,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-22T14:35:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-22T14:36:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 2.14,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.65,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.74,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 2.02,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 2.06,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.71,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dillon Brooks",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dillon Brooks",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Amen Thompson",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Amen Thompson",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Alperen Sengun",
+                "price": 1.68,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Alperen Sengun",
+                "price": 2.1,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 2.2,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.6,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.61,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 2.18,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Tari Eason",
+                "price": 2.12,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tari Eason",
+                "price": 1.66,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Green",
+                "price": 1.97,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Green",
+                "price": 1.77,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

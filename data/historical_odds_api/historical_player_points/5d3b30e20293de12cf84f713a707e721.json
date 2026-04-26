@@ -1,0 +1,644 @@
+{
+  "timestamp": "2025-01-04T11:05:38Z",
+  "previous_timestamp": "2025-01-04T11:00:38Z",
+  "next_timestamp": "2025-01-04T11:10:38Z",
+  "data": {
+    "id": "5d3b30e20293de12cf84f713a707e721",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-04T23:10:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Philadelphia 76ers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-04T11:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-04T11:06:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.94,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Wilson",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Wilson",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 2.0,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.78,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.82,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-04T11:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-04T11:05:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Wilson",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Wilson",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.95,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-04T11:04:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-04T11:05:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.92,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.94,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Wilson",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Wilson",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.94,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-04T11:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-04T11:06:07Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.84,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.92,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Simmons",
+                "price": 1.9,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Simmons",
+                "price": 1.86,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Wilson",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Wilson",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.89,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.84,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.92,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-04T11:03:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-04T11:06:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Caleb Martin",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Caleb Martin",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "D'Angelo Russell",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Wilson",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Wilson",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Joel Embiid",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Joel Embiid",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Keon Johnson",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Keon Johnson",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.83,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

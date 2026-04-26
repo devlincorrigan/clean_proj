@@ -1,0 +1,825 @@
+{
+  "timestamp": "2025-01-20T15:25:38Z",
+  "previous_timestamp": "2025-01-20T15:20:38Z",
+  "next_timestamp": "2025-01-20T15:30:38Z",
+  "data": {
+    "id": "570c8e2909c0bc3a600aff932287d50f",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-21T03:40:00Z",
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Chicago Bulls",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-20T15:25:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-20T15:25:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Amir Coffey",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Amir Coffey",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Patrick Williams",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Patrick Williams",
+                "price": 1.95,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-01-20T15:23:41Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-20T15:23:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.75,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 1.97,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.97,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.75,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.75,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.97,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Patrick Williams",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Patrick Williams",
+                "price": 1.94,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Amir Coffey",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Amir Coffey",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.88,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.73,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.97,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.75,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Batum",
+                "price": 2.26,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Batum",
+                "price": 1.57,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-01-20T15:25:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-20T15:25:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Batum",
+                "price": 2.3,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Batum",
+                "price": 1.57,
+                "point": 3.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kris Dunn",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Kris Dunn",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Patrick Williams",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Patrick Williams",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Amir Coffey",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Amir Coffey",
+                "price": 1.91,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-20T15:23:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-20T15:25:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 2.0,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.78,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Patrick Williams",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Patrick Williams",
+                "price": 2.06,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-20T15:25:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-20T15:25:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 1.97,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.86,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Ivica Zubac",
+                "price": 1.81,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ivica Zubac",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Patrick Williams",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Patrick Williams",
+                "price": 1.89,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Amir Coffey",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Amir Coffey",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Norman Powell",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Norman Powell",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.84,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 2.1,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.7,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-20T15:25:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-20T15:25:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Coby White",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Coby White",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Vucevic",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Vucevic",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Patrick Williams",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Patrick Williams",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Zach LaVine",
+                "price": 2.05,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Zach LaVine",
+                "price": 1.74,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

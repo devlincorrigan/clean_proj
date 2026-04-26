@@ -1,0 +1,945 @@
+{
+  "timestamp": "2025-01-31T15:05:38Z",
+  "previous_timestamp": "2025-01-31T15:00:38Z",
+  "next_timestamp": "2025-01-31T15:10:38Z",
+  "data": {
+    "id": "afed9b6c6698f76a8f0b12b342fb10f4",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-01T03:10:00Z",
+    "home_team": "Golden State Warriors",
+    "away_team": "Phoenix Suns",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-01-31T15:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-31T15:05:56Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 2.0,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.77,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 2.03,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.75,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Payton II",
+                "price": 2.1,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Payton II",
+                "price": 1.7,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.91,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-01-31T15:04:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-31T15:05:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Gary Payton II",
+                "price": 1.96,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Payton II",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.82,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.96,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.96,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.94,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.9,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-31T15:05:33Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-31T15:05:19Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Payton II",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Payton II",
+                "price": 1.91,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-01-31T15:05:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-31T15:05:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.69,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Mason Plumlee",
+                "price": 1.83,
+                "point": 3.5
+              },
+              {
+                "name": "Under",
+                "description": "Mason Plumlee",
+                "price": 1.91,
+                "point": 3.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.77,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 2.0,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Payton II",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Payton II",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.85,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-01-31T15:04:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-31T15:05:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Grayson Allen",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Grayson Allen",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-01-31T15:04:48Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-31T15:05:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Wiggins",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Wiggins",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Buddy Hield",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Buddy Hield",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Payton II",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Payton II",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Devin Booker",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Devin Booker",
+                "price": 1.89,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.81,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Royce O'Neale",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Royce O'Neale",
+                "price": 1.93,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Richards",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Richards",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.79,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.81,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.93,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

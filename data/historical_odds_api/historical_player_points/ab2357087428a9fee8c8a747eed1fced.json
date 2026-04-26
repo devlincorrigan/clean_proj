@@ -1,0 +1,572 @@
+{
+  "timestamp": "2026-03-01T08:35:37Z",
+  "previous_timestamp": "2026-03-01T08:30:37Z",
+  "next_timestamp": "2026-03-01T08:40:37Z",
+  "data": {
+    "id": "ab2357087428a9fee8c8a747eed1fced",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-03-01T20:40:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-03-01T08:35:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-01T08:35:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylon Tyson",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylon Tyson",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.98,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.96,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.78,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Sam Merrill",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Merrill",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nolan Traore",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nolan Traore",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.76,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.8,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-03-01T08:34:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-01T08:35:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nolan Traore",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nolan Traore",
+                "price": 1.8,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-03-01T08:35:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-01T08:35:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.84,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.93,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylon Tyson",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylon Tyson",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Sam Merrill",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Merrill",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nolan Traore",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nolan Traore",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.84,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.93,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-03-01T08:34:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-01T08:35:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.78,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.96,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylon Tyson",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylon Tyson",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Sam Merrill",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Merrill",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nolan Traore",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nolan Traore",
+                "price": 1.85,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-03-01T08:35:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-01T08:35:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarrett Allen",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarrett Allen",
+                "price": 1.93,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.84,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Sam Merrill",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Merrill",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Noah Clowney",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Noah Clowney",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.81,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.95,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaylon Tyson",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaylon Tyson",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Nolan Traore",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nolan Traore",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.9,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

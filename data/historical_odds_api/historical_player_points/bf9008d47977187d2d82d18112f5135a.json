@@ -1,0 +1,680 @@
+{
+  "timestamp": "2023-12-11T12:35:38Z",
+  "previous_timestamp": "2023-12-11T12:30:39Z",
+  "next_timestamp": "2023-12-11T12:40:38Z",
+  "data": {
+    "id": "bf9008d47977187d2d82d18112f5135a",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-12-12T00:40:00Z",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Denver Nuggets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-12-11T12:34:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:32:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.71,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.1,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr.",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr.",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.74,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.05,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.77,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 2.0,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-12-11T12:35:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:34:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.83,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-12-11T12:33:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:33:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.78,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.99,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 2.18,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.61,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.72,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.02,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr.",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr.",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.9,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.81,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.87,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.84,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.79,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.92,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-12-11T12:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:33:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.88,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.94,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr.",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr.",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.96,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.94,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.83,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-12-11T12:33:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:33:55Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.93,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr.",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr.",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.99,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dejounte Murray",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Dejounte Murray",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Saddiq Bey",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Saddiq Bey",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "De'Andre Hunter",
+                "price": 2.02,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "De'Andre Hunter",
+                "price": 1.76,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

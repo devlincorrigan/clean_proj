@@ -1,0 +1,163 @@
+{
+  "timestamp": "2024-04-12T11:25:40Z",
+  "previous_timestamp": "2024-04-12T11:20:39Z",
+  "next_timestamp": "2024-04-12T11:30:39Z",
+  "data": {
+    "id": "e09f576aae6c230c376d42e02227f32a",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-12T23:30:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-12T11:24:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-12T11:25:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.87,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-04-12T11:23:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-12T11:24:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.83,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-04-12T11:24:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-12T11:24:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.83,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-04-12T11:21:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-12T11:26:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandon Miller",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Miller",
+                "price": 1.79,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Mann",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Mann",
+                "price": 1.85,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

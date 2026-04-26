@@ -1,0 +1,729 @@
+{
+  "timestamp": "2024-12-27T14:05:38Z",
+  "previous_timestamp": "2024-12-27T14:00:38Z",
+  "next_timestamp": "2024-12-27T14:10:38Z",
+  "data": {
+    "id": "dd5c7ce9aab037d3f7c681c18576ca9b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-12-28T02:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Dallas Mavericks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-27T14:05:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-27T14:05:05Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-27T14:03:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-27T14:05:52Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.9,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.94,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-27T13:57:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-27T13:58:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.92,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.75,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.73,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.85,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.94,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.78,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.8,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.92,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.97,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-27T14:05:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-27T14:05:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 2.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 2.1,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.69,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-27T14:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-27T14:05:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.83,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.93,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 2.1,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.7,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.97,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.93,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-12-27T14:04:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-27T14:05:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bradley Beal",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Bradley Beal",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Klay Thompson",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Klay Thompson",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Durant",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Durant",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Dereck Lively II",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dereck Lively II",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.8,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.95,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyus Jones",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyus Jones",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "P.J. Washington",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "P.J. Washington",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jusuf Nurkic",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jusuf Nurkic",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

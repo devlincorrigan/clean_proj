@@ -1,0 +1,621 @@
+{
+  "timestamp": "2023-12-11T12:35:38Z",
+  "previous_timestamp": "2023-12-11T12:30:39Z",
+  "next_timestamp": "2023-12-11T12:40:38Z",
+  "data": {
+    "id": "da724e8c226c1073a645981fce750346",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-12-12T00:40:00Z",
+    "home_team": "New York Knicks",
+    "away_team": "Toronto Raptors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-12-11T12:34:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:33:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.74,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 2.05,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 2.0,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.71,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.1,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "RJ Barrett",
+                "price": 1.71,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "RJ Barrett",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 2.05,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-12-11T12:35:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:32:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "RJ Barrett",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "RJ Barrett",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.96,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.93,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-12-11T12:35:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:33:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "O.G. Anunoby",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "O.G. Anunoby",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "RJ Barrett",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "RJ Barrett",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.83,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-12-11T12:33:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:33:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "RJ Barrett",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "RJ Barrett",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.76,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-12-11T12:33:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:31:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.94,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "RJ Barrett Jr.",
+                "price": 2.09,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "RJ Barrett Jr.",
+                "price": 1.71,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 2.0,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-12-11T12:35:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-11T12:32:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "RJ Barrett",
+                "price": 1.69,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "RJ Barrett",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

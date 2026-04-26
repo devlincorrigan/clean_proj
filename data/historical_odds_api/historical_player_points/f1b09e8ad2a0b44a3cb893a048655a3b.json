@@ -1,0 +1,669 @@
+{
+  "timestamp": "2025-04-04T14:05:39Z",
+  "previous_timestamp": "2025-04-04T14:00:39Z",
+  "next_timestamp": "2025-04-04T14:10:40Z",
+  "data": {
+    "id": "f1b09e8ad2a0b44a3cb893a048655a3b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-04-05T02:10:00Z",
+    "home_team": "Golden State Warriors",
+    "away_team": "Denver Nuggets",
+    "bookmakers": [
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-04-04T14:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-04T14:06:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-04-04T14:04:28Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-04T14:03:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.88,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.89,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.85,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-04-04T14:04:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-04T14:05:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.0,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-04-04T14:04:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-04T14:06:07Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.95,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-04-04T14:02:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-04T14:06:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.92,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.92,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-04-04T14:04:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-04T14:05:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Christian Braun",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Christian Braun",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 2.1,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.69,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 2.2,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.62,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "timestamp": "2023-11-03T10:55:42Z",
+  "previous_timestamp": "2023-11-03T10:50:43Z",
+  "next_timestamp": "2023-11-03T11:00:43Z",
+  "data": {
+    "id": "b9096deaffa2ba3f027a77bf350323b2",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-11-03T23:00:00Z",
+    "home_team": "Indiana Pacers",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-03T10:54:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-03T10:56:37Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.93,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.85,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.85,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-03T10:55:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-11-03T10:54:22Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donovan Mitchell",
+                "price": 1.91,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Mitchell",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Evan Mobley",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Evan Mobley",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Max Strus",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Max Strus",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.74,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

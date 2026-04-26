@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-04-10T11:35:38Z",
+  "previous_timestamp": "2026-04-10T11:30:39Z",
+  "next_timestamp": "2026-04-10T11:40:38Z",
+  "data": {
+    "id": "80adae4b4459f5602f7500d94892f2a5",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-04-10T23:40:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "New Orleans Pelicans",
+    "bookmakers": [
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-04-10T11:35:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-10T11:35:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jeremiah Fears",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jeremiah Fears",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

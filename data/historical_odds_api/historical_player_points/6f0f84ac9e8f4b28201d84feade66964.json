@@ -1,0 +1,993 @@
+{
+  "timestamp": "2025-12-05T13:05:38Z",
+  "previous_timestamp": "2025-12-05T13:00:38Z",
+  "next_timestamp": "2025-12-05T13:10:38Z",
+  "data": {
+    "id": "6f0f84ac9e8f4b28201d84feade66964",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-06T01:10:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Philadelphia 76ers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-05T13:05:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-05T13:05:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.88,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 2.02,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 2.04,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.72,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.98,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.77,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.76,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.76,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.04,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.72,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 2.04,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.72,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "VJ Edgecombe",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "VJ Edgecombe",
+                "price": 1.82,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-05T13:04:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-05T13:05:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Andre Drummond",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andre Drummond",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "VJ Edgecombe",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "VJ Edgecombe",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jared McCain",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jared McCain",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Justin Edwards",
+                "price": 1.87,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Justin Edwards",
+                "price": 1.87,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-05T13:05:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-05T13:05:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 2.04,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.85,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Andre Drummond",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andre Drummond",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.88,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "VJ Edgecombe",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "VJ Edgecombe",
+                "price": 1.86,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.82,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.81,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-05T13:04:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-05T13:06:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andre Drummond",
+                "price": 1.71,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Andre Drummond",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.85,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jared McCain",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jared McCain",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Justin Edwards",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Justin Edwards",
+                "price": 1.91,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "VJ Edgecombe",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "VJ Edgecombe",
+                "price": 1.83,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-05T13:03:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-05T13:04:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.75,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andre Drummond",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andre Drummond",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "VJ Edgecombe",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "VJ Edgecombe",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.85,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 2.06,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.71,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.98,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.76,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-05T13:04:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-12-05T13:05:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyrese Maxey",
+                "price": 1.9,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Maxey",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Kevin Porter Jr.",
+                "price": 1.92,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kevin Porter Jr.",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Ryan Rollins",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ryan Rollins",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Quentin Grimes",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Quentin Grimes",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Bobby Portis",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bobby Portis",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.81,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "A.J. Green",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "A.J. Green",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.9,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "VJ Edgecombe",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "VJ Edgecombe",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.03,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Andre Drummond",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andre Drummond",
+                "price": 1.83,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

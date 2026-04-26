@@ -1,0 +1,910 @@
+{
+  "timestamp": "2025-03-03T12:05:38Z",
+  "previous_timestamp": "2025-03-03T12:00:38Z",
+  "next_timestamp": "2025-03-03T12:10:38Z",
+  "data": {
+    "id": "88ec7352b864871886a86b3bcb559179",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-03-04T00:10:00Z",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-03-03T12:05:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:04:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.91,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-03-03T12:05:20Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:05:36Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.87,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-03-03T12:05:19Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:05:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 2.02,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.02,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 2.02,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.74,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 2.0,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.76,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 2.02,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.74,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-03-03T11:51:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:05:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.73,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 2.0,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-03-03T12:05:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:06:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.96,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.81,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.95,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.79,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.97,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.75,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.75,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-03-03T12:05:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:05:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.93,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 1.99,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 1.97,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.77,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-03-03T12:05:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-03-03T12:05:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Brandin Podziemski",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandin Podziemski",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Draymond Green",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Draymond Green",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "LaMelo Ball",
+                "price": 1.67,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "LaMelo Ball",
+                "price": 2.15,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Mark Williams",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mark Williams",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Miles Bridges",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Miles Bridges",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Moses Moody",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Moses Moody",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nick Smith Jr",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Nick Smith Jr",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Stephen Curry",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Stephen Curry",
+                "price": 1.95,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

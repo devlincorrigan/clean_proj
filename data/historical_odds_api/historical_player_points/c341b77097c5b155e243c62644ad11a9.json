@@ -1,0 +1,838 @@
+{
+  "timestamp": "2024-02-10T08:05:39Z",
+  "previous_timestamp": "2024-02-10T08:00:40Z",
+  "next_timestamp": "2024-02-10T08:10:39Z",
+  "data": {
+    "id": "c341b77097c5b155e243c62644ad11a9",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-02-10T20:10:00Z",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Oklahoma City Thunder",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-02-10T08:04:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:03:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 2.05,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.71,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 2.1,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.74,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.05,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.74,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.05,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-02-10T08:04:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:04:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Joshua Giddey",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Joshua Giddey",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.87,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.87,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.87,
+                "point": 32.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-02-10T08:04:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:06:31Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.95,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.81,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.92,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.84,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.96,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.81,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.9,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.86,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.81,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 2.1,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.7,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 2.05,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 1.74,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-02-10T08:01:42Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:05:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.81,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.9,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.84,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.92,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.92,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 1.73,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.81,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.9,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.81,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.9,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-02-10T08:03:56Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:05:46Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.9,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 2.04,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.94,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.94,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.88,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-02-10T08:04:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:04:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Green",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 2.0,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-02-10T08:05:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-02-10T08:05:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick Jones Jr.",
+                "price": 1.69,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick Jones Jr.",
+                "price": 2.1,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Giddey",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyrie Irving",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyrie Irving",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

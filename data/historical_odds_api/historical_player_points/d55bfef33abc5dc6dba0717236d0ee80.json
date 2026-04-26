@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-04-12T10:05:38Z",
+  "previous_timestamp": "2026-04-12T10:00:44Z",
+  "next_timestamp": "2026-04-12T10:10:38Z",
+  "data": {
+    "id": "d55bfef33abc5dc6dba0717236d0ee80",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-04-12T22:10:00Z",
+    "home_team": "Toronto Raptors",
+    "away_team": "Brooklyn Nets",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-04-12T10:05:15Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-12T10:06:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.07,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.72,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 2.03,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.75,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.99,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 1.78,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

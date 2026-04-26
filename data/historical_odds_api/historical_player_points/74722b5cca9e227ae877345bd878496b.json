@@ -1,0 +1,861 @@
+{
+  "timestamp": "2024-12-31T13:05:37Z",
+  "previous_timestamp": "2024-12-31T13:00:38Z",
+  "next_timestamp": "2024-12-31T13:10:38Z",
+  "data": {
+    "id": "74722b5cca9e227ae877345bd878496b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-01T01:10:00Z",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Minnesota Timberwolves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-12-31T13:05:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-31T13:05:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.96,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.82,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.78,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Hartenstein",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Hartenstein",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.94,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.85,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-12-31T13:04:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-31T13:05:30Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Hartenstein",
+                "price": 1.83,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Hartenstein",
+                "price": 1.91,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.87,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-12-31T13:03:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-31T13:03:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.92,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.92,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Joe",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Joe",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Hartenstein",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Hartenstein",
+                "price": 1.94,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.92,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.92,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.88,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.75,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.97,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nickeil Alexander-Walker",
+                "price": 1.88,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Nickeil Alexander-Walker",
+                "price": 1.83,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-12-31T13:05:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-31T13:05:38Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.81,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.94,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Hartenstein",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Hartenstein",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.9,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 2.1,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.7,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.97,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-12-31T13:04:59Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-31T13:05:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.77,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Joe",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Joe",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Nickeil Alexander-Walker",
+                "price": 1.91,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Nickeil Alexander-Walker",
+                "price": 1.83,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Hartenstein",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Hartenstein",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cason Wallace",
+                "price": 1.95,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Cason Wallace",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.8,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 1.95,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.95,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-12-31T13:05:27Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-12-31T13:05:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Anthony Edwards",
+                "price": 1.74,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Anthony Edwards",
+                "price": 2.05,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Hartenstein",
+                "price": 1.74,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Hartenstein",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaden McDaniels",
+                "price": 1.67,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaden McDaniels",
+                "price": 2.15,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Williams",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Williams",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Luguentz Dort",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Luguentz Dort",
+                "price": 1.87,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.62,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 2.2,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

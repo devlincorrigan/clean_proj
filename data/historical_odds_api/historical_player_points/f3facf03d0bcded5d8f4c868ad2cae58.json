@@ -1,0 +1,669 @@
+{
+  "timestamp": "2024-11-29T13:05:39Z",
+  "previous_timestamp": "2024-11-29T13:00:39Z",
+  "next_timestamp": "2024-11-29T13:10:39Z",
+  "data": {
+    "id": "f3facf03d0bcded5d8f4c868ad2cae58",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-30T01:10:00Z",
+    "home_team": "Miami Heat",
+    "away_team": "Toronto Raptors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-29T13:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-29T13:06:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Haywood Highsmith",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Haywood Highsmith",
+                "price": 1.95,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-29T13:00:37Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-29T13:01:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.92,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.97,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.75,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Haywood Highsmith",
+                "price": 1.8,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Haywood Highsmith",
+                "price": 1.92,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-29T13:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-29T13:05:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.9,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.94,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.83,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Terry Rozier",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Terry Rozier",
+                "price": 1.82,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.82,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.96,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.02,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.77,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 2.02,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaime Jaquez Jr",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaime Jaquez Jr",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Duncan Robinson",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Duncan Robinson",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.93,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-29T13:04:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-29T13:06:05Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 2.05,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-29T13:03:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-29T13:06:06Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Haywood Highsmith",
+                "price": 1.83,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Haywood Highsmith",
+                "price": 1.91,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.77,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-29T13:04:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-29T13:05:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jimmy Butler",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jimmy Butler",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jakob Poeltl",
+                "price": 1.98,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jakob Poeltl",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyler Herro",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyler Herro",
+                "price": 1.86,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Bam Adebayo",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Bam Adebayo",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Scottie Barnes",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Scottie Barnes",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ochai Agbaji",
+                "price": 1.97,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ochai Agbaji",
+                "price": 1.8,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

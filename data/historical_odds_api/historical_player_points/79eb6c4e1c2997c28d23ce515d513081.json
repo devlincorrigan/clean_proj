@@ -1,0 +1,1029 @@
+{
+  "timestamp": "2026-02-20T12:10:38Z",
+  "previous_timestamp": "2026-02-20T12:05:38Z",
+  "next_timestamp": "2026-02-20T12:15:37Z",
+  "data": {
+    "id": "79eb6c4e1c2997c28d23ce515d513081",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-02-21T00:15:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Indiana Pacers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-02-20T12:10:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T12:10:25Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.88,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.88,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Sheppard",
+                "price": 2.02,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Sheppard",
+                "price": 1.74,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-02-20T12:10:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T12:10:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-02-20T12:10:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T12:11:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.79,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.99,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.88,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-02-20T12:09:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T12:11:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.79,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.94,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.69,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 2.09,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-02-20T12:09:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T12:10:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.79,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.86,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.74,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 2.04,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyshawn George",
+                "price": 1.89,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyshawn George",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Ben Sheppard",
+                "price": 1.98,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Ben Sheppard",
+                "price": 1.79,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-02-20T12:08:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-02-20T12:10:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.41,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.54,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.4,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.69,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.1,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.15,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.67,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.45,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.53,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.41,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.43,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 2.7,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.61,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 2.25,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 2.1,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.69,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 2.45,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.53,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bilal Coulibaly",
+                "price": 2.9,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bilal Coulibaly",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.43,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 2.7,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.61,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 2.25,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 2.1,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.69,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 2.45,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.53,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Carlton Carrington",
+                "price": 2.9,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Carlton Carrington",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.4,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 2.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.53,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 2.45,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.67,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 2.15,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 2.05,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 2.3,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.59,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 2.6,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.47,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 2.9,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.38,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.45,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 2.65,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.62,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 2.1,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.69,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 2.4,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.54,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jay Huff",
+                "price": 2.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jay Huff",
+                "price": 1.41,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.45,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 2.65,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.62,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 2.2,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 2.15,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.67,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 2.55,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.48,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 3.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.36,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.45,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 2.65,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.62,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 2.1,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.69,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 2.4,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.54,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Tre Johnson",
+                "price": 2.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Tre Johnson",
+                "price": 1.41,
+                "point": 15.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

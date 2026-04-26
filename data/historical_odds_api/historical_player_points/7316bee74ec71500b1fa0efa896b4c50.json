@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-04-13T05:05:38Z",
+  "previous_timestamp": "2025-04-13T05:00:38Z",
+  "next_timestamp": "2025-04-13T05:10:38Z",
+  "data": {
+    "id": "7316bee74ec71500b1fa0efa896b4c50",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-04-13T17:10:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Charlotte Hornets",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-04-13T05:04:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-04-13T05:01:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Sam Hauser",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Hauser",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.93,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.82,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "DaQuan Jeffries",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "DaQuan Jeffries",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Tidjane Salaun",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Tidjane Salaun",
+                "price": 1.78,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

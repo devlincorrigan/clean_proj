@@ -1,0 +1,599 @@
+{
+  "timestamp": "2024-04-10T12:05:40Z",
+  "previous_timestamp": "2024-04-10T12:00:39Z",
+  "next_timestamp": "2024-04-10T12:10:39Z",
+  "data": {
+    "id": "304b81b74762027a3798c88910179e11",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-11T00:10:00Z",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "San Antonio Spurs",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-04-10T12:03:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:06:02Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.69,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 2.14,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.71,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.1,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-10T12:05:25Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:05:15Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.93,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.96,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.82,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-10T12:03:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:04:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.91,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.83,
+                "point": 28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-04-10T12:03:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:00:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.8,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.95,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.95,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-04-10T12:03:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:04:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 2.06,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.71,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.5,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.44,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.56,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 2.28,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.63,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.15,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.81,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.85,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.33,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 2.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.35,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.02,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.74,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 2.38,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.5,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.23,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.57,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.36,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.75,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.38,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 2.7,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.48,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.43,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-04-10T12:03:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:05:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 2.06,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.71,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.5,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.44,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.94,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.56,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 2.28,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.63,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.15,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.81,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.93,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.85,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.33,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 2.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.35,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.02,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.74,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 2.38,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.5,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.23,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.57,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.36,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.75,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.38,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 2.7,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.48,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.43,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-04-10T12:03:55Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T12:05:24Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.69,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 2.1,
+                "point": 27.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-04-10T12:04:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-10T11:54:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.81,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Shai Gilgeous-Alexander",
+                "price": 1.9,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Chet Holmgren",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Chet Holmgren",
+                "price": 1.93,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

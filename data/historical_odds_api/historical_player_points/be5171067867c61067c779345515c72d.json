@@ -1,0 +1,993 @@
+{
+  "timestamp": "2026-04-07T11:05:38Z",
+  "previous_timestamp": "2026-04-07T11:00:45Z",
+  "next_timestamp": "2026-04-07T11:10:38Z",
+  "data": {
+    "id": "be5171067867c61067c779345515c72d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-04-07T23:10:00Z",
+    "home_team": "Indiana Pacers",
+    "away_team": "Minnesota Timberwolves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-04-07T11:05:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-07T11:06:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.72,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 2.04,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kobe Brown",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kobe Brown",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.77,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.72,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 2.04,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Quenton Jackson",
+                "price": 2.02,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Quenton Jackson",
+                "price": 1.74,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Micah Potter",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Micah Potter",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.76,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 2.0,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-04-07T11:05:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-07T11:04:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 2.0,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-04-07T11:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-07T11:05:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.92,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.92,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.84,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.97,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.81,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-04-07T11:05:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-07T11:05:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jarace Walker",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jarace Walker",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.89,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.92,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.98,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.71,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 2.07,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.88,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-04-07T11:05:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-07T11:06:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Mike Conley",
+                "price": 1.95,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Mike Conley",
+                "price": 1.8,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.8,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.95,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-04-07T11:02:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-04-07T11:05:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.4,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 2.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.53,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 2.45,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.67,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 2.15,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 2.1,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.69,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 2.35,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.56,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 2.7,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.43,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Ayo Dosunmu",
+                "price": 3.1,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Ayo Dosunmu",
+                "price": 1.34,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.41,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 2.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.56,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 2.35,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 2.05,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 2.2,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.62,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 2.55,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.48,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Bones Hyland",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Bones Hyland",
+                "price": 1.36,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.36,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 3.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.53,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 2.45,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.69,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 2.1,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 2.25,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.61,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 2.65,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.45,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Donte DiVincenzo",
+                "price": 3.1,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Donte DiVincenzo",
+                "price": 1.34,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.36,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 3.0,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.48,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 2.55,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.61,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 2.25,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.74,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 2.05,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.83,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 2.1,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.69,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 2.35,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.56,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 2.65,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.45,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Julius Randle",
+                "price": 3.0,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Julius Randle",
+                "price": 1.36,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.38,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 2.9,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.53,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 2.45,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.69,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 2.1,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 2.15,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.67,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 2.5,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.5,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Naz Reid",
+                "price": 2.85,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Naz Reid",
+                "price": 1.4,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.47,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 2.6,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.67,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 2.15,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.87,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.15,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.67,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.5,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.5,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Rudy Gobert",
+                "price": 2.9,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Rudy Gobert",
+                "price": 1.38,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

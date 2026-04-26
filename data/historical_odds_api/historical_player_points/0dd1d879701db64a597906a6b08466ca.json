@@ -1,0 +1,89 @@
+{
+  "timestamp": "2024-04-03T11:35:38Z",
+  "previous_timestamp": "2024-04-03T11:30:38Z",
+  "next_timestamp": "2024-04-03T11:40:39Z",
+  "data": {
+    "id": "0dd1d879701db64a597906a6b08466ca",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-03T23:40:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Memphis Grizzlies",
+    "bookmakers": [
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-03T11:35:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.91,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.83,
+                "point": 23.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-03T11:33:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jaren Jackson Jr",
+                "price": 1.93,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jaren Jackson Jr",
+                "price": 1.85,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 33.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

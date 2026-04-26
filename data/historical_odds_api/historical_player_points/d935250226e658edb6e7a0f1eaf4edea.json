@@ -1,0 +1,1858 @@
+{
+  "timestamp": "2026-03-13T14:05:38Z",
+  "previous_timestamp": "2026-03-13T14:00:38Z",
+  "next_timestamp": "2026-03-13T14:10:38Z",
+  "data": {
+    "id": "d935250226e658edb6e7a0f1eaf4edea",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-03-14T02:10:00Z",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Utah Jazz",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-03-13T14:05:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:04:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.98,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.77,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.98,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.76,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 2.02,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.74,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.89,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.98,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.89,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-03-13T14:05:11Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:05:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.81,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.97,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.98,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.92,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.82,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 2.01,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.02,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.79,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 2.0,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-03-13T14:05:19Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:05:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.95,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-03-13T14:04:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:06:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.03,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.73,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.76,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.92,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.82,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.89,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.89,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.83,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.89,
+                "point": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-03-13T14:05:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:04:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.86,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.9,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.84,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.92,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.82,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.94,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.92,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.84,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.97,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.99,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.86,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.9,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.03,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.75,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-03-13T14:05:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:06:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.85,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.91,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.85,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.95,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.8,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-03-13T13:59:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-13T14:04:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.42,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 2.75,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.56,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 2.35,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.74,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 2.05,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 2.15,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.67,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 2.45,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.53,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Ace Bailey",
+                "price": 2.75,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Ace Bailey",
+                "price": 1.42,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.36,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 3.05,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.47,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 2.6,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.61,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 2.25,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 2.2,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.62,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 2.45,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.53,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Brice Sensabaugh",
+                "price": 2.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Brice Sensabaugh",
+                "price": 1.41,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.33,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 3.15,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.5,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 2.5,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 1.74,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 2.05,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.77,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.35,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.56,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cody Williams",
+                "price": 2.8,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Cody Williams",
+                "price": 1.41,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.41,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 2.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.53,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 2.45,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.62,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 2.2,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 2.0,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.77,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 2.2,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.62,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 2.45,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.53,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 2.75,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.42,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Deni Avdija",
+                "price": 3.15,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Deni Avdija",
+                "price": 1.33,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.4,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 2.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.56,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 2.35,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 2.3,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.59,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Donovan Clingan",
+                "price": 2.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Donovan Clingan",
+                "price": 1.43,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.43,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 2.7,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.59,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 2.3,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 2.05,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.2,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.62,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.5,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.5,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Isaiah Collier",
+                "price": 2.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Isaiah Collier",
+                "price": 1.38,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.4,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 2.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.53,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 2.45,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.67,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 2.15,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 2.05,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.74,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 2.3,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.59,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 2.6,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.47,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jerami Grant",
+                "price": 2.9,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jerami Grant",
+                "price": 1.38,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.41,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 2.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.54,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 2.4,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.69,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 2.1,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 2.15,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.67,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 2.45,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.53,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 2.8,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.41,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.41,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 2.8,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.56,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 2.35,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 2.05,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 2.2,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.62,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 2.55,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.48,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kyle Filipowski",
+                "price": 3.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Filipowski",
+                "price": 1.36,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.33,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 3.15,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.53,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 2.45,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 1.77,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 2.0,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 2.1,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.69,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 2.45,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.53,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Robert Williams",
+                "price": 3.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Robert Williams",
+                "price": 1.36,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.33,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 3.15,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.47,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 2.6,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.62,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 2.2,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 2.1,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.69,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 2.4,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.54,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Scoot Henderson",
+                "price": 2.75,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Scoot Henderson",
+                "price": 1.42,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.38,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 2.9,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.54,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 2.4,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.74,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 2.05,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 2.2,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.62,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 2.55,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.48,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Toumani Camara",
+                "price": 3.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Toumani Camara",
+                "price": 1.36,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

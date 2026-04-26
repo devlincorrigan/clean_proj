@@ -1,0 +1,499 @@
+{
+  "timestamp": "2026-03-08T07:35:37Z",
+  "previous_timestamp": "2026-03-08T07:30:37Z",
+  "next_timestamp": "2026-03-08T07:40:37Z",
+  "data": {
+    "id": "eb2b99ecfa9d75e8e25ce5b0d036f373",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-03-08T19:40:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "New York Knicks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-03-08T07:35:09Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-08T07:35:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.96,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.78,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.74,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 2.02,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.77,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Marcus Smart",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Marcus Smart",
+                "price": 1.96,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.82,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.94,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.89,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Landry Shamet",
+                "price": 1.77,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Landry Shamet",
+                "price": 1.98,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.98,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.82,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Mitchell Robinson",
+                "price": 2.0,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Mitchell Robinson",
+                "price": 1.76,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-03-08T07:35:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-08T07:34:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.93,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.84,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.86,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.81,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 1.81,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.97,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.99,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.79,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.99,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.79,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Landry Shamet",
+                "price": 1.79,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Landry Shamet",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 2.04,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.75,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Marcus Smart",
+                "price": 1.78,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Marcus Smart",
+                "price": 2.01,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Mitchell Robinson",
+                "price": 2.0,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Mitchell Robinson",
+                "price": 1.78,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-03-08T07:34:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-08T07:35:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.87,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-03-08T07:35:24Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2026-03-08T07:35:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "LeBron James",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "LeBron James",
+                "price": 1.81,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Brunson",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Brunson",
+                "price": 1.89,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Austin Reaves",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Austin Reaves",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Josh Hart",
+                "price": 1.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Josh Hart",
+                "price": 1.81,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "OG Anunoby",
+                "price": 1.93,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "OG Anunoby",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.97,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Landry Shamet",
+                "price": 1.78,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Landry Shamet",
+                "price": 1.99,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.8,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.97,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Marcus Smart",
+                "price": 1.8,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Marcus Smart",
+                "price": 1.97,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Karl-Anthony Towns",
+                "price": 2.0,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Karl-Anthony Towns",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Deandre Ayton",
+                "price": 1.88,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Deandre Ayton",
+                "price": 1.88,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

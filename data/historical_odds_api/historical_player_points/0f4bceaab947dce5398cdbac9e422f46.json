@@ -1,0 +1,65 @@
+{
+  "timestamp": "2024-03-17T10:05:37Z",
+  "previous_timestamp": "2024-03-17T10:00:37Z",
+  "next_timestamp": "2024-03-17T10:10:37Z",
+  "data": {
+    "id": "0f4bceaab947dce5398cdbac9e422f46",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-17T22:10:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Boston Celtics",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-17T10:01:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-17T10:05:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.88,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.87,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-17T10:04:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-17T10:04:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kyle Kuzma",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Kyle Kuzma",
+                "price": 1.91,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

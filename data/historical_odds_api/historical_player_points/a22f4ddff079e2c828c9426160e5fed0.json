@@ -1,0 +1,1668 @@
+{
+  "timestamp": "2024-03-04T12:55:39Z",
+  "previous_timestamp": "2024-03-04T12:50:39Z",
+  "next_timestamp": "2024-03-04T13:00:39Z",
+  "data": {
+    "id": "a22f4ddff079e2c828c9426160e5fed0",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-05T01:10:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Los Angeles Clippers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-04T12:54:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.0,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-04T12:54:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:55:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.9,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.87,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.96,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.93,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.85,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.96,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 32.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-04T12:54:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:54:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.95,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.8,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.83,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-04T12:54:20Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:55:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.8,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-03-04T12:54:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:55:59Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 2.06,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.71,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.43,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.5,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 2.02,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.63,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.16,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.79,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.82,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.81,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.72,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.4,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.65,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.7,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.07,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.97,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.77,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.28,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.55,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.5,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.38,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 3.0,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.3,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.57,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.23,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.51,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.35,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 2.43,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.47,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.18,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.62,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 2.7,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.32,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.3,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.0,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.0,
+                "point": 36.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.29,
+                "point": 36.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.2,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.6,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.4,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.49,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.34,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.32,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.7,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.38,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.28,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 3.05,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.04,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.72,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.3,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.32,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.6,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.41,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.14,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.64,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.54,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 2.3,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.74,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.02,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.65,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.14,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 3.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.3,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.45,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 2.48,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.47,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.45,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.7,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.38,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.5,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.43,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.4,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.49,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.65,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 3.05,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.28,
+                "point": 30.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-03-04T12:54:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:52:44Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 2.06,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.71,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.43,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.5,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.74,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 2.02,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.63,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.16,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.94,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.79,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.82,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.93,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.81,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.72,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 2.05,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.4,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.65,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.76,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.7,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.07,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.97,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.77,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.28,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.55,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.5,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.38,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 3.0,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.3,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.57,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.23,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.51,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.35,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 2.43,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.47,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.18,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.62,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 2.7,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.32,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.88,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.3,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.0,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.0,
+                "point": 36.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.29,
+                "point": 36.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.2,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.6,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.4,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.49,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.34,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.85,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.32,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.7,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.38,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.28,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 3.05,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.04,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.72,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.3,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.9,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.32,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 2.6,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.41,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.14,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.64,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.54,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 2.3,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.74,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 2.02,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.65,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.14,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 3.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 1.3,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Terance Mann",
+                "price": 1.45,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Terance Mann",
+                "price": 2.48,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.47,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.45,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.7,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.38,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 2.5,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.43,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 2.4,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.49,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 2.65,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 3.05,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.28,
+                "point": 30.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-04T12:53:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.78,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.92,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-04T12:54:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:54:24Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.82,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.94,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-04T12:54:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-04T12:54:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.8,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.95,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "James Harden",
+                "price": 1.91,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "James Harden",
+                "price": 1.83,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kawhi Leonard",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Kawhi Leonard",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Malik Beasley",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Malik Beasley",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Paul George",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paul George",
+                "price": 2.0,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

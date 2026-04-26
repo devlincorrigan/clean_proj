@@ -1,0 +1,64 @@
+{
+  "timestamp": "2023-12-31T11:55:38Z",
+  "previous_timestamp": "2023-12-31T11:50:38Z",
+  "next_timestamp": "2023-12-31T12:00:38Z",
+  "data": {
+    "id": "7498e9ec73fcacfcbdf85c985e7f1cab",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-01-01T00:00:00Z",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Los Angeles Lakers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-12-31T11:54:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-31T11:47:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Zion Williamson",
+                "price": 1.8,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Zion Williamson",
+                "price": 1.98,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Brandon Ingram",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Brandon Ingram",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "CJ McCollum",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "CJ McCollum",
+                "price": 1.88,
+                "point": 18.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

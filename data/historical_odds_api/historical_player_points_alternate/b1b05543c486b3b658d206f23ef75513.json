@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-01-03T13:55:38Z",
+  "previous_timestamp": "2025-01-03T13:50:38Z",
+  "next_timestamp": "2025-01-03T14:00:38Z",
+  "data": {
+    "id": "b1b05543c486b3b658d206f23ef75513",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-01-04T02:00:00Z",
+    "home_team": "Denver Nuggets",
+    "away_team": "San Antonio Spurs",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-01-03T13:55:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-01-03T13:55:17Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.8,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.83,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

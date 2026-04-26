@@ -1,0 +1,1582 @@
+{
+  "timestamp": "2024-11-04T12:40:38Z",
+  "previous_timestamp": "2024-11-04T12:35:39Z",
+  "next_timestamp": "2024-11-04T12:45:39Z",
+  "data": {
+    "id": "3daf8c9d55f6171788c9c9be784d1c0d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-11-05T00:45:00Z",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Boston Celtics",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-11-04T12:38:44Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:40:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.83,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.91,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.87,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.95,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.87,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.77,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-11-04T12:39:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:39:26Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.98,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.8,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.96,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 2.04,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 2.0,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.78,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.9,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.85,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-11-04T12:39:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:38:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.74,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.92,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.84,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.87,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.85,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.93,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.9,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.81,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.7,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.04,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.92,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.97,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.75,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-11-04T12:39:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:40:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.89,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.87,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.85,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.91,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.85,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.99,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.95,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.81,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.1,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.7,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-11-04T12:39:50Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:41:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.8,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.95,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.83,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.91,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.87,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.71,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.05,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-11-04T12:39:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:40:29Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.91,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.83,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Clint Capela",
+                "price": 1.69,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Clint Capela",
+                "price": 2.1,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.95,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.91,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.91,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.91,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.74,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 2.05,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 2.05,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.74,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-11-04T12:39:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-11-04T12:40:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 2.4,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.49,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 2.55,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.42,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.43,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 2.55,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 2.3,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.54,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 2.02,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.74,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 2.7,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.38,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 2.9,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.32,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.57,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 2.23,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.71,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.76,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 2.0,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 2.25,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.56,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 2.0,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.76,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.73,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 2.04,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.89,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.83,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.76,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 2.0,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.95,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.79,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.78,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.96,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 2.0,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.75,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.81,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.62,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 2.18,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 2.0,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.76,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.79,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 2.5,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.43,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 2.14,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.64,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.82,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 1.93,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 2.6,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.42,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 1.3,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 2.95,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.51,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 2.35,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 2.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.34,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 2.6,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.41,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.6,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 2.2,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 2.1,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.67,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.56,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 2.28,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.32,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 2.9,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 2.55,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.42,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 1.4,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 2.63,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 2.18,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.61,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.35,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 2.8,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.43,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 2.55,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 2.18,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.61,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.56,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 2.25,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.57,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 2.23,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.34,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 2.85,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.4,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 2.63,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dyson Daniels",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dyson Daniels",
+                "price": 1.61,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 2.95,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 1.32,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 2.7,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.38,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Al Horford",
+                "price": 1.48,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Al Horford",
+                "price": 2.43,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 2.25,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.56,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jrue Holiday",
+                "price": 1.38,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jrue Holiday",
+                "price": 2.7,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 2.32,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 1.53,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 1.3,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 3.0,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.42,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 2.55,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Johnson",
+                "price": 2.95,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Johnson",
+                "price": 1.3,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 2.43,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 1.48,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 2.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Derrick White",
+                "price": 2.45,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Derrick White",
+                "price": 1.45,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Zaccharie Risacher",
+                "price": 1.55,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Zaccharie Risacher",
+                "price": 2.28,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Jayson Tatum",
+                "price": 1.43,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Jayson Tatum",
+                "price": 2.5,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.65,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 2.14,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.3,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 3.0,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Trae Young",
+                "price": 1.3,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Trae Young",
+                "price": 3.0,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

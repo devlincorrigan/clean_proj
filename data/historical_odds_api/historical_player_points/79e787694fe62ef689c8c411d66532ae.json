@@ -1,0 +1,89 @@
+{
+  "timestamp": "2024-04-14T05:05:38Z",
+  "previous_timestamp": "2024-04-14T05:00:38Z",
+  "next_timestamp": "2024-04-14T05:10:38Z",
+  "data": {
+    "id": "79e787694fe62ef689c8c411d66532ae",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-14T17:10:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Washington Wizards",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-14T05:05:23Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:06:12Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.98,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Sam Hauser",
+                "price": 1.88,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Hauser",
+                "price": 1.88,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-14T05:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-14T05:04:33Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Payton Pritchard",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Payton Pritchard",
+                "price": 1.87,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Sam Hauser",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Sam Hauser",
+                "price": 1.87,
+                "point": 17.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

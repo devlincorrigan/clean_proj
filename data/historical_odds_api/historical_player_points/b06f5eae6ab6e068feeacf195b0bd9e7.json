@@ -1,0 +1,2412 @@
+{
+  "timestamp": "2024-03-11T12:55:38Z",
+  "previous_timestamp": "2024-03-11T12:50:38Z",
+  "next_timestamp": "2024-03-11T13:00:39Z",
+  "data": {
+    "id": "b06f5eae6ab6e068feeacf195b0bd9e7",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-12T01:10:00Z",
+    "home_team": "Denver Nuggets",
+    "away_team": "Toronto Raptors",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-11T12:55:03Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:55:47Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-11T12:55:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:55:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-11T12:54:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:54:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.91,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.77,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.95,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.91,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.83,
+                "point": 22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-11T12:52:01Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:54:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.93,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.85,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.0,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.78,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.85,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.88,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.87,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.9,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.83,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.88,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.88,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-03-11T12:55:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:55:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.67,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 2.14,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.64,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.12,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.66,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.4,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.65,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.55,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.28,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.47,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 2.43,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.18,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.61,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.73,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.02,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.63,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 2.16,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.74,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.02,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.55,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.28,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.5,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 2.35,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.5,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.43,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.41,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.6,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.6,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.41,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.38,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.5,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 2.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.33,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.32,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.73,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.02,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.55,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.42,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 2.7,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.36,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.43,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.48,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.3,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.36,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 2.7,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.2,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.6,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.56,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.25,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.7,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 2.07,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 2.4,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.49,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.75,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.36,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.63,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.15,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 2.4,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.49,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 2.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.36,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.42,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.55,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 2.75,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.36,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.04,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.73,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.47,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 2.43,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 2.07,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.34,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 2.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.44,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.5,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.3,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.68,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 2.08,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 2.38,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.5,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.4,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.65,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.28,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.55,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.29,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 3.05,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.7,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.36,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.3,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 2.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.6,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.2,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 3.1,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.27,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.3,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.55,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.28,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.15,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.63,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 2.28,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.55,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 3.1,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.28,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 3.15,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.27,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.27,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 3.15,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-03-11T12:54:06Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:54:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 2.1,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.67,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 2.14,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.64,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.12,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.66,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.79,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.4,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.65,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.55,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.28,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.47,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 2.43,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.88,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.88,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.18,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.61,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.92,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.82,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.73,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.02,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.63,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 2.16,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.74,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.02,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.93,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.82,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.82,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.94,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.55,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.28,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.5,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 2.35,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.5,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.43,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.41,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 2.6,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.6,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.41,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.38,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.5,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 2.85,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.33,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.9,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.32,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.73,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.02,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.55,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.42,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 2.7,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.36,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.43,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.48,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.3,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.36,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 2.7,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 2.2,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.6,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.56,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.25,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.7,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 2.07,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 2.4,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.49,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 2.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.75,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.36,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.63,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.15,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 2.4,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.49,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 2.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.36,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.42,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.55,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 2.75,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.36,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.04,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.73,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.47,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 2.43,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 2.07,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.34,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 2.8,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.44,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.5,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.3,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 2.95,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.68,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 2.08,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 2.38,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.5,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.4,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.65,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 2.28,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.55,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.29,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 3.05,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 2.7,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.36,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.3,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 2.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.6,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 2.2,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 3.1,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.27,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.3,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 2.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.55,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 2.28,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 2.15,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.63,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 2.28,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.55,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 3.1,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.28,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 3.15,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.27,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.27,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 3.15,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-11T12:54:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:54:08Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.87,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.83,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-11T12:53:04Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:55:32Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.88,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.83,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.79,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.93,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.84,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.85,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.79,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.93,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.84,
+                "point": 16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-11T12:55:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-03-11T12:55:00Z",
+            "outcomes": [
+              {
+                "name": "Under",
+                "description": "Kelly Olynyk",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Kelly Olynyk",
+                "price": 1.97,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Immanuel Quickley",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Immanuel Quickley",
+                "price": 1.87,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Michael Porter Jr",
+                "price": 1.87,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Michael Porter Jr",
+                "price": 1.89,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.89,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Kentavious Caldwell-Pope",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nikola Jokic",
+                "price": 1.91,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Nikola Jokic",
+                "price": 1.85,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Jamal Murray",
+                "price": 1.87,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jamal Murray",
+                "price": 1.89,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Gary Trent Jr",
+                "price": 1.97,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Gary Trent Jr",
+                "price": 1.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Gordon",
+                "price": 1.93,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Gordon",
+                "price": 1.83,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "R.J. Barrett",
+                "price": 1.82,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "R.J. Barrett",
+                "price": 1.94,
+                "point": 21.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

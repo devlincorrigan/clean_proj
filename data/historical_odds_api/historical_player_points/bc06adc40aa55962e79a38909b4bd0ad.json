@@ -1,0 +1,2604 @@
+{
+  "timestamp": "2024-04-03T11:35:38Z",
+  "previous_timestamp": "2024-04-03T11:30:38Z",
+  "next_timestamp": "2024-04-03T11:40:39Z",
+  "data": {
+    "id": "bc06adc40aa55962e79a38909b4bd0ad",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-04-03T23:40:00Z",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Indiana Pacers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-04-03T11:35:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:34:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.8,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-04-03T11:35:35Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:34:03Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.8,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.95,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.87,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.91,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.83,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.87,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.91,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.83,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-04-03T11:33:43Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.9,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.87,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.9,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.98,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.88,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.08,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.72,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.0,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-04-03T11:34:02Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:18Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.77,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.77,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.74,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.95,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.77,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.74,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-04-03T11:33:49Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.96,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.86,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.97,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.8,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.82,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.94,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.94,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.82,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.89,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.92,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.84,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-04-03T11:34:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:34:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.87,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.84,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.9,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.81,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.97,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.75,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.78,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.94,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.74,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.99,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.92,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.94,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.78,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.81,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.85,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.85,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-04-03T11:34:12Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:14Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.8,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.0,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.77,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.91,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.77,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.0,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.95,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.8,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.0,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.95,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.8,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.91,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.83,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.95,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.8,
+                "point": 19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-04-03T11:35:14Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:28Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.75,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.36,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.02,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.74,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.47,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.45,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.66,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.12,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.12,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.66,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.72,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.73,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.1,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.68,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.07,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.7,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.72,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.05,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.12,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.65,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.68,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.08,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.73,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.02,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.32,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.55,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.43,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.04,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.73,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.41,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.6,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.45,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.45,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.45,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.47,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.44,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.48,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.38,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.5,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.32,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.61,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.18,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.51,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.35,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 3.1,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.27,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.55,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.42,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.28,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 3.1,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.12,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.66,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.62,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.18,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 3.0,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.3,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.33,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.51,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.9,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.33,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.36,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.7,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.25,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.56,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.42,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.55,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.49,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.4,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.3,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 2.63,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.4,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.9,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.32,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 2.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.34,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.43,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 2.55,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.7,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.36,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.56,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.28,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 2.35,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.51,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.3,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.6,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.35,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.42,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.55,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.7,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.38,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.45,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.48,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 2.48,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.44,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.33,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 2.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.38,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.5,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 3.1,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.28,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.4,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.49,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.28,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 3.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 2.1,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.67,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-04-03T11:35:14Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-04-03T11:35:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.75,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.36,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.02,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.74,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.47,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.45,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.66,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.12,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.12,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.66,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.83,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.85,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.88,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.77,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.97,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.8,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.93,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.72,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 2.05,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.02,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.73,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.1,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.68,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.07,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.7,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.96,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.72,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.05,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.12,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.65,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.68,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.08,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.89,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.83,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.96,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.78,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.73,
+                "point": 6.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.02,
+                "point": 6.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.88,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.85,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.32,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.95,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 2.55,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.43,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.04,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.73,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.41,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.6,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.45,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.45,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.45,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.47,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.44,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.48,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.38,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.5,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 2.9,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 1.32,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.61,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.18,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.51,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.35,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 3.1,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 1.27,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.55,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.42,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.28,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 3.1,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.12,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.66,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.62,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.18,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 3.0,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.3,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 2.33,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 1.51,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 2.9,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 2.88,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 1.33,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 1.36,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 2.7,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.25,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.56,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Dennis Schroder",
+                "price": 1.42,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Dennis Schroder",
+                "price": 2.55,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.49,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.4,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.54,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.3,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 2.63,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.4,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.9,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.32,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 2.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.34,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.43,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 2.55,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.7,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.36,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.56,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.28,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 2.35,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.51,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Myles Turner",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Myles Turner",
+                "price": 2.75,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Pascal Siakam",
+                "price": 2.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Pascal Siakam",
+                "price": 1.3,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Aaron Nesmith",
+                "price": 1.6,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Aaron Nesmith",
+                "price": 2.2,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 1.35,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 2.8,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 1.42,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 2.55,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 2.7,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.38,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Dorian Finney-Smith",
+                "price": 1.45,
+                "point": 5.5
+              },
+              {
+                "name": "Under",
+                "description": "Dorian Finney-Smith",
+                "price": 2.48,
+                "point": 5.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 2.48,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 1.44,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Nicolas Claxton",
+                "price": 1.33,
+                "point": 8.5
+              },
+              {
+                "name": "Under",
+                "description": "Nicolas Claxton",
+                "price": 2.88,
+                "point": 8.5
+              },
+              {
+                "name": "Over",
+                "description": "Tyrese Haliburton",
+                "price": 2.38,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Tyrese Haliburton",
+                "price": 1.5,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Mikal Bridges",
+                "price": 3.1,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Mikal Bridges",
+                "price": 1.28,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 2.4,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 1.49,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Andrew Nembhard",
+                "price": 1.28,
+                "point": 7.5
+              },
+              {
+                "name": "Under",
+                "description": "Andrew Nembhard",
+                "price": 3.1,
+                "point": 7.5
+              },
+              {
+                "name": "Over",
+                "description": "Cam Thomas",
+                "price": 2.1,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cam Thomas",
+                "price": 1.67,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

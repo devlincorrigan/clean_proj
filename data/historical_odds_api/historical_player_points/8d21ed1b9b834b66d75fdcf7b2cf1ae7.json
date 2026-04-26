@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-02-03T13:05:38Z",
+  "previous_timestamp": "2025-02-03T13:00:38Z",
+  "next_timestamp": "2025-02-03T13:10:38Z",
+  "data": {
+    "id": "8d21ed1b9b834b66d75fdcf7b2cf1ae7",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-02-04T01:10:00Z",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "San Antonio Spurs",
+    "bookmakers": [
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-02-03T13:00:19Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T12:59:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.8,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.92,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-02-03T13:04:46Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T13:05:50Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.0,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.78,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 2.0,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.78,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-02-03T13:05:19Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T13:05:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.79,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Chris Paul",
+                "price": 1.92,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Chris Paul",
+                "price": 1.82,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-02-03T13:05:21Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2025-02-03T13:05:01Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Victor Wembanyama",
+                "price": 2.05,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Victor Wembanyama",
+                "price": 1.74,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

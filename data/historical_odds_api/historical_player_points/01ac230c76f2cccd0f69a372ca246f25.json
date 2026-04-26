@@ -1,0 +1,696 @@
+{
+  "timestamp": "2023-12-21T12:55:39Z",
+  "previous_timestamp": "2023-12-21T12:50:39Z",
+  "next_timestamp": "2023-12-21T13:00:39Z",
+  "data": {
+    "id": "01ac230c76f2cccd0f69a372ca246f25",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-12-22T01:10:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Orlando Magic",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-12-21T12:54:31Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:54:09Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.71,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.14,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-12-21T12:55:29Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:53:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.88,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-12-21T12:54:34Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:53:40Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.8,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.95,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-12-21T12:53:47Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:54:00Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.86,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.9,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.82,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.94,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-12-21T12:54:16Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:51:58Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.93,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.85,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.87,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.9,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-12-21T12:52:39Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:51:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 31.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-12-21T12:55:17Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:51:16Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.07,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.7,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.12,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.65,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.81,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.48,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.43,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.64,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.14,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.47,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.45,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.34,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.95,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.32,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.6,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.41,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.65,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.38,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.33,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.51,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 3.1,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.28,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.76,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.0,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.32,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.53,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.36,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.7,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.61,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.18,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.28,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.1,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-12-21T12:55:05Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:54:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.07,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.7,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.12,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.65,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.93,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.81,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.89,
+                "point": 20.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.48,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.43,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.64,
+                "point": 19.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.14,
+                "point": 19.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.47,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.45,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.34,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 2.85,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.95,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.32,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.6,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.41,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.65,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.38,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.33,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.51,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 3.1,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.28,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.76,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.0,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 2.32,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.53,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.36,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.7,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.61,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 2.18,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.28,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 3.1,
+                "point": 26.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-12-21T12:54:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-21T12:51:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.83,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Giannis Antetokounmpo",
+                "price": 1.91,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Paolo Banchero",
+                "price": 1.91,
+                "point": 20.5
+              },
+              {
+                "name": "Under",
+                "description": "Paolo Banchero",
+                "price": 1.83,
+                "point": 20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "timestamp": "2024-01-05T15:05:38Z",
+  "previous_timestamp": "2024-01-05T15:00:38Z",
+  "next_timestamp": "2024-01-05T15:10:39Z",
+  "data": {
+    "id": "2d8a2e24ec78be47754ac9648e6b11d3",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-01-06T03:10:00Z",
+    "home_team": "Golden State Warriors",
+    "away_team": "Detroit Pistons",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-01-05T15:04:57Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:05:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.91,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-01-05T15:04:54Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:03:43Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.83,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.91,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.8,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-01-05T15:03:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:03:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.79,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.8,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.92,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-01-05T15:04:18Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:05:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.87,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.87,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-01-05T15:04:10Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:02:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.94,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.82,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.96,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-01-05T15:03:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:04:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.91,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.74,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 2.05,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-01-05T15:03:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:03:53Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.47,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.45,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 2.7,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.62,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.18,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.79,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.97,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.77,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 2.48,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.45,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.2,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.6,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.75,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.36,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.45,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.47,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 3.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.3,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.35,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.8,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 3.15,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.27,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.57,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 2.23,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 2.14,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.65,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-01-05T15:04:30Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:04:10Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.47,
+                "point": 22.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.45,
+                "point": 22.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.36,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 2.7,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.81,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.93,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.62,
+                "point": 23.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.18,
+                "point": 23.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.79,
+                "point": 24.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.95,
+                "point": 24.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.97,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.77,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 2.48,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.45,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.2,
+                "point": 26.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.6,
+                "point": 26.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.75,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.36,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 2.45,
+                "point": 27.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.47,
+                "point": 27.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 3.0,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.3,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.35,
+                "point": 21.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 2.8,
+                "point": 21.5
+              },
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 3.15,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.27,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.57,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 2.23,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 2.14,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.65,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-01-05T15:03:36Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2024-01-05T15:03:11Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Cade Cunningham",
+                "price": 1.93,
+                "point": 25.5
+              },
+              {
+                "name": "Under",
+                "description": "Cade Cunningham",
+                "price": 1.83,
+                "point": 25.5
+              },
+              {
+                "name": "Over",
+                "description": "Jalen Duren",
+                "price": 1.85,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Jalen Duren",
+                "price": 1.91,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

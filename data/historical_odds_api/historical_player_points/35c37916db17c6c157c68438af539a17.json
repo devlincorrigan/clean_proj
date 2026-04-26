@@ -1,0 +1,981 @@
+{
+  "timestamp": "2023-12-06T13:25:39Z",
+  "previous_timestamp": "2023-12-06T13:20:39Z",
+  "next_timestamp": "2023-12-06T13:30:39Z",
+  "data": {
+    "id": "35c37916db17c6c157c68438af539a17",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-12-07T01:40:00Z",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Utah Jazz",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-12-06T13:25:22Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-06T13:25:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.77,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 2.0,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.95,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.8,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-12-06T13:23:52Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-06T13:21:51Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.98,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.96,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 2.0,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 32.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-12-06T13:24:32Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-06T13:25:04Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.06,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.5,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.55,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.28,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.7,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.06,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 2.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.38,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 2.28,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.55,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.25,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.56,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.5,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.44,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.17,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.62,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.85,
+                "point": 36.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.34,
+                "point": 36.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.33,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.5,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.43,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.05,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.71,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.48,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.45,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.51,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.35,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.71,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.43,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.55,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.49,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 2.4,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.36,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.75,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.35,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.33,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.32,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 2.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.18,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.62,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.08,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-12-06T13:23:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-06T13:24:13Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.06,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.5,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.38,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.83,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.78,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.92,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.82,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.55,
+                "point": 30.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.28,
+                "point": 30.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.7,
+                "point": 31.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.06,
+                "point": 31.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.87,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 2.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.38,
+                "point": 14.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 2.28,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.55,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.25,
+                "point": 34.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.56,
+                "point": 34.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.5,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.44,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.17,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.62,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.85,
+                "point": 36.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.34,
+                "point": 36.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.9,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.32,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.33,
+                "point": 28.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.85,
+                "point": 28.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.5,
+                "point": 35.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.43,
+                "point": 35.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.05,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.71,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.48,
+                "point": 17.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.45,
+                "point": 17.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.51,
+                "point": 13.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.35,
+                "point": 13.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.71,
+                "point": 11.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 2.05,
+                "point": 11.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Don\u010di\u0107",
+                "price": 1.43,
+                "point": 29.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Don\u010di\u0107",
+                "price": 2.55,
+                "point": 29.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.49,
+                "point": 10.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 2.4,
+                "point": 10.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.36,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 2.75,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.35,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.8,
+                "point": 12.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 2.88,
+                "point": 18.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.33,
+                "point": 18.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.32,
+                "point": 9.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 2.9,
+                "point": 9.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 2.18,
+                "point": 16.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.62,
+                "point": 16.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.7,
+                "point": 14.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 2.08,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-12-06T13:21:59Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-06T13:25:35Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.88,
+                "point": 32.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 32.5
+              },
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.94,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.78,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.96,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.76,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-12-06T13:23:51Z",
+        "markets": [
+          {
+            "key": "player_points",
+            "last_update": "2023-12-06T13:25:49Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "description": "John Collins",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "John Collins",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Keyonte George",
+                "price": 1.95,
+                "point": 15.5
+              },
+              {
+                "name": "Under",
+                "description": "Keyonte George",
+                "price": 1.8,
+                "point": 15.5
+              },
+              {
+                "name": "Over",
+                "description": "Luka Doncic",
+                "price": 1.91,
+                "point": 33.5
+              },
+              {
+                "name": "Under",
+                "description": "Luka Doncic",
+                "price": 1.83,
+                "point": 33.5
+              },
+              {
+                "name": "Over",
+                "description": "Simone Fontecchio",
+                "price": 1.91,
+                "point": 12.5
+              },
+              {
+                "name": "Under",
+                "description": "Simone Fontecchio",
+                "price": 1.83,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
