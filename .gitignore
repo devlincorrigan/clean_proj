@@ -1,0 +1,38 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.matplotlib/
+
+# Local virtual envs / editor noise
+.venv/
+venv/
+.python-version
+.env
+.env.*
+
+# Logs and scratch
+*.log
+tmp/
+archive/
+
+# Keep the submission repo focused on the runtime app, not experiments
+quantile_model/experiments/
+
+# Ignore alternate quantile artifacts that are not part of the final app path
+quantile_model/artifacts/*
+!quantile_model/artifacts/points_ou_quantile_artifact_split.pt
+
+# Ignore diagnostics and generated analysis tables from the alternate-lines pipeline
+multi_output_threshold_mlp/diagnostics/
+multi_output_threshold_mlp/*_predictions.csv
+multi_output_threshold_mlp/walk_forward_stacked_pair_type_summary.csv
+
+# Ignore bulky or nonessential local data, but keep the small current odds snapshots
+# that the live app tabs rely on.
+data/historical_odds_api/
+data/historical_event_odds_v4/
+data/historical_player_points_alternate/
+data/team_logos/
+data/game_event_info.csv
