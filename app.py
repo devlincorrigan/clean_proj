@@ -32,7 +32,10 @@ from multi_output_threshold_mlp.odds_processing import (
     load_odds_event,
     normalize_player_name,
 )
-from streamlit_app.points_ou_model import score_current_points_ou, score_historical_points_ou
+from streamlit_app.points_ou_model import (
+    HISTORICAL_SELECTED_BETS_CSV,
+    score_current_points_ou,
+)
 from streamlit_app.score_live_odds import score_current_points_ladders
 
 PLAYERS_CSV = APP_DIR / "data" / "box_scores" / "players.csv"
@@ -118,7 +121,7 @@ def parse_stat_value(value):
         return 0
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_players():
     players_by_id = {}
 
@@ -152,7 +155,7 @@ def load_players():
     )
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_player_games(person_id):
     games = []
 
@@ -189,7 +192,7 @@ def load_player_games(person_id):
     return sorted(games, key=lambda game: (game["gameDate"], game["gameId"]))
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_matchup_rows(events_json_path):
     with Path(events_json_path).open(encoding="utf-8") as handle:
         events = json.load(handle)
@@ -210,17 +213,28 @@ def load_live_points_ladder_scores():
     return score_current_points_ladders()
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_live_points_ou_scores():
     return score_current_points_ou()
 
 
 @st.cache_data(show_spinner=False)
 def load_historical_points_ou_scores():
-    return score_historical_points_ou()
+    if not HISTORICAL_SELECTED_BETS_CSV.exists():
+        return pd.DataFrame()
+
+    rows = pd.read_csv(HISTORICAL_SELECTED_BETS_CSV)
+    for column in ("game_date", "GAME_DATE"):
+        if column in rows.columns:
+            rows[column] = pd.to_datetime(rows[column], errors="coerce")
+    if "bookmaker_last_update" in rows.columns:
+        rows["bookmaker_last_update"] = pd.to_datetime(
+            rows["bookmaker_last_update"], utc=True, errors="coerce"
+        )
+    return rows
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_current_points_ou_rows():
     rows = []
     for event_file in sorted(CURRENT_PLAYER_POINTS_DIR.glob("*.json")):
@@ -345,21 +359,21 @@ def load_current_points_ou_rows():
     ).drop(columns=["commence_sort"], errors="ignore").reset_index(drop=True)
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_walk_forward_period_summary():
     if not WALK_FORWARD_PERIOD_SUMMARY_CSV.exists():
         return pd.DataFrame()
     return pd.read_csv(WALK_FORWARD_PERIOD_SUMMARY_CSV)
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_walk_forward_selected_bets():
     if not WALK_FORWARD_SELECTED_BETS_CSV.exists():
         return pd.DataFrame()
     return pd.read_csv(WALK_FORWARD_SELECTED_BETS_CSV)
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_team_names_by_id():
     mapping = {}
     with NBA_ROSTERS_CSV.open(newline="", encoding="utf-8") as handle:
@@ -374,7 +388,7 @@ def load_team_names_by_id():
     return mapping
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_team_abbreviations():
     by_full_name = {}
     by_nickname = {}
@@ -393,7 +407,7 @@ def load_team_abbreviations():
     return by_full_name, by_nickname
 
 
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def load_current_ladder_book_metadata():
     metadata = {}
     odds_dir = APP_DIR / "data" / "current_odds_api" / "player_points_alternate"
@@ -1605,26 +1619,63 @@ def render_points_ou_page():
                 )
 
     else:
-        st.subheader("How This Will Work")
-        st.markdown(
-            """
-This tab now uses a local quantile-regression model built from your downloaded box-score data.
+        render_points_ou_methodology_tab()
 
-Planned flow:
-- load current `player_points` lines
-- dedupe repeated bookmaker copies of the same player-line
-- generate `q10 / q50 / q90` forecasts with the local transformer
-- use the median forecast direction as the side
-- filter to large-separation spots only
-- surface recommended bets on the first tab
-- keep the full browse-by-game experience on the second tab
 
-Current recommendation rule:
+def render_points_ou_methodology_tab():
+    st.subheader("Methodology")
+    st.markdown(
+        """
+This page uses a quantile-regression pipeline for standard player points over/under lines.
+
+**Model**
+
+Instead of predicting only one number like expected points, the model estimates several points quantiles for each player-game distribution:
+
+- `q10`
+- `q50`
+- `q90`
+
+where `q50` is the median projection, `q10` is a lower-tail projection, and `q90` is an upper-tail projection.
+
+That means the model is learning a rough distribution of plausible scoring outcomes rather than only a single point estimate. A line far below the median suggests the `Over` is more plausible; a line far above the median suggests the `Under` is more plausible.
+
+The model itself is a sequence transformer trained on historical box-score context. It looks at each player's recent game history together with team and opponent context, then predicts the requested points quantiles for the upcoming matchup. Those quantiles are then compared with the sportsbook line.
+
+The current recommendation rule is intentionally simple:
+
 - pick `Over` when `q50 > line`
 - pick `Under` when `q50 < line`
 - only recommend bets where `|q50 - line| >= 7.0`
-            """
-        )
+
+So the recommendation layer is a large-separation heuristic built on top of the model's median forecast.
+        """
+    )
+
+    st.subheader("Validation")
+    st.markdown(
+        """
+Validation is done with a split-based historical evaluation.
+
+The quantile model is trained on earlier player-game rows and then evaluated on later unseen rows. Historical sportsbook lines are joined to those held-out predictions so the app can measure:
+
+- recommendation count
+- accuracy
+- cumulative accuracy over time
+- flat-stake bankroll over time
+
+So the core question in validation is whether the model's historical quantile forecasts, combined with the recommendation rule, would have produced sensible betting decisions on later data.
+        """
+    )
+
+    st.subheader("Card Numbers")
+    st.markdown(
+        """
+- `Over` / `Under`: the sportsbook decimal odds on each side.
+- `Q10`, `Q50`, `Q90`: the model's lower, median, and upper points projections.
+- `Recommendation`: the side selected by the current rule, if any.
+        """
+    )
 
 
 def render_points_ladder_history_tab():
