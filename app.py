@@ -1496,6 +1496,10 @@ def render_points_ou_page():
                     )
 
                 if not bucket_summary.empty:
+                    st.caption(
+                        "Selection rule: only bets with |Q50 - Line| >= 7 were "
+                        "recommended."
+                    )
                     st.subheader("ROI by |Q50 - Line| Bucket")
                     bucket_chart = (
                         alt.Chart(bucket_summary)
